@@ -11,8 +11,8 @@
 import time
 import argparse
 import logging
-import pandas as pd
 from tqdm import tqdm
+import pandas as pd
 from scipy.stats import gmean
 from collections import defaultdict
 import datetime
@@ -23,13 +23,14 @@ from torch.utils.data import DataLoader
 
 from loss import *
 from utils import *
+from datasets import AgeDB
 from resnet import resnet50
-from datasets import IMDBWIKI
+
+from ranksim import batchwise_ranking_regularizer
 
 import os
 os.environ["KMP_WARNINGS"] = "FALSE"
 
-from ranksim import batchwise_ranking_regularizer
 
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 # imbalanced related
@@ -37,18 +38,18 @@ parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFo
 parser.add_argument('--lds', action='store_true', default=False, help='whether to enable LDS')
 parser.add_argument('--lds_kernel', type=str, default='gaussian',
                     choices=['gaussian', 'triang', 'laplace'], help='LDS kernel type')
-parser.add_argument('--lds_ks', type=int, default=5, help='LDS kernel size: should be odd number')
+parser.add_argument('--lds_ks', type=int, default=9, help='LDS kernel size: should be odd number')
 parser.add_argument('--lds_sigma', type=float, default=1, help='LDS gaussian/laplace kernel sigma')
 # FDS
 parser.add_argument('--fds', action='store_true', default=False, help='whether to enable FDS')
 parser.add_argument('--fds_kernel', type=str, default='gaussian',
                     choices=['gaussian', 'triang', 'laplace'], help='FDS kernel type')
-parser.add_argument('--fds_ks', type=int, default=5, help='FDS kernel size: should be odd number')
+parser.add_argument('--fds_ks', type=int, default=9, help='FDS kernel size: should be odd number')
 parser.add_argument('--fds_sigma', type=float, default=1, help='FDS gaussian/laplace kernel sigma')
 parser.add_argument('--start_update', type=int, default=0, help='which epoch to start FDS updating')
 parser.add_argument('--start_smooth', type=int, default=1, help='which epoch to start using FDS to smooth features')
 parser.add_argument('--bucket_num', type=int, default=100, help='maximum bucket considered for FDS')
-parser.add_argument('--bucket_start', type=int, default=0, choices=[0, 3],
+parser.add_argument('--bucket_start', type=int, default=3, choices=[0, 3],
                     help='minimum(starting) bucket for FDS, 0 for IMDBWIKI, 3 for AgeDB')
 parser.add_argument('--fds_mmt', type=float, default=0.9, help='FDS momentum')
 
@@ -62,8 +63,8 @@ parser.add_argument('--regularization_weight', type=float, default=0, help='weig
 parser.add_argument('--interpolation_lambda', type=float, default=1.0, help='interpolation strength')
 
 # training/optimization related
-parser.add_argument('--dataset', type=str, default='imdb_wiki', choices=['imdb_wiki', 'agedb'], help='dataset name')
-parser.add_argument('--data_dir', type=str, default='/shared-data/imdb-wiki-dir/', help='data directory')
+parser.add_argument('--dataset', type=str, default='agedb', choices=['imdb_wiki', 'agedb'], help='dataset name')
+parser.add_argument('--data_dir', type=str, default='./data', help='data directory')
 parser.add_argument('--model', type=str, default='resnet50', help='model name')
 parser.add_argument('--store_root', type=str, default='checkpoint', help='root path for storing checkpoints, logs')
 parser.add_argument('--store_name', type=str, default='', help='experiment store name')
@@ -71,7 +72,7 @@ parser.add_argument('--gpu', type=int, default=None)
 parser.add_argument('--optimizer', type=str, default='adam', choices=['adam', 'sgd'], help='optimizer type')
 parser.add_argument('--loss', type=str, default='l1', choices=['mse', 'l1', 'focal_l1', 'focal_mse', 'huber'], help='training loss type')
 parser.add_argument('--lr', type=float, default=1e-3, help='initial learning rate')
-parser.add_argument('--epoch', type=int, default=90, help='number of epochs to train')
+parser.add_argument('--epoch', type=int, default=120, help='number of epochs to train')
 parser.add_argument('--momentum', type=float, default=0.9, help='optimizer momentum')
 parser.add_argument('--weight_decay', type=float, default=1e-4, help='optimizer weight decay')
 parser.add_argument('--schedule', type=int, nargs='*', default=[60, 80], help='lr schedule (when to drop lr by 10x)')
@@ -84,10 +85,13 @@ parser.add_argument('--resume', type=str, default='', help='checkpoint file path
 parser.add_argument('--pretrained', type=str, default='', help='checkpoint file path to load backbone weights')
 parser.add_argument('--evaluate', action='store_true', help='evaluate only flag')
 
+
 parser.set_defaults(augment=True)
 args, unknown = parser.parse_known_args()
 
+
 args.start_epoch, args.best_loss = 0, 1e5
+
 
 if len(args.store_name):
     args.store_name = f'_{args.store_name}'
@@ -138,10 +142,10 @@ def main():
     df_train, df_val, df_test = df[df['split'] == 'train'], df[df['split'] == 'val'], df[df['split'] == 'test']
     train_labels = df_train['age']
 
-    train_dataset = IMDBWIKI(data_dir=args.data_dir, df=df_train, img_size=args.img_size, split='train',
-                             reweight=args.reweight, lds=args.lds, lds_kernel=args.lds_kernel, lds_ks=args.lds_ks, lds_sigma=args.lds_sigma)
-    val_dataset = IMDBWIKI(data_dir=args.data_dir, df=df_val, img_size=args.img_size, split='val')
-    test_dataset = IMDBWIKI(data_dir=args.data_dir, df=df_test, img_size=args.img_size, split='test')
+    train_dataset = AgeDB(data_dir=args.data_dir, df=df_train, img_size=args.img_size, split='train',
+                          reweight=args.reweight, lds=args.lds, lds_kernel=args.lds_kernel, lds_ks=args.lds_ks, lds_sigma=args.lds_sigma)
+    val_dataset = AgeDB(data_dir=args.data_dir, df=df_val, img_size=args.img_size, split='val')
+    test_dataset = AgeDB(data_dir=args.data_dir, df=df_test, img_size=args.img_size, split='test')
 
     train_loader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True,
                               num_workers=args.workers, pin_memory=True, drop_last=False)
@@ -159,6 +163,7 @@ def main():
                      start_update=args.start_update, start_smooth=args.start_smooth,
                      kernel=args.fds_kernel, ks=args.fds_ks, sigma=args.fds_sigma, momentum=args.fds_mmt,
                      return_features=(args.regularization_weight > 0))
+    
     model = torch.nn.DataParallel(model).cuda()
 
     # evaluate only
@@ -261,17 +266,20 @@ def train(train_loader, model, optimizer, epoch):
         data_time.update(time.time() - end)
         inputs, targets, weights = \
             inputs.cuda(non_blocking=True), targets.cuda(non_blocking=True), weights.cuda(non_blocking=True)
+
         if args.regularization_weight > 0:
             outputs, features = model(inputs, targets, epoch)
         elif args.fds:
             outputs, _ = model(inputs, targets, epoch)
         else:
             outputs = model(inputs, targets, epoch)
-  
+
         loss = globals()[f"weighted_{args.loss}_loss"](outputs, targets, weights)
+
         if args.regularization_weight > 0:
             loss += (args.regularization_weight * batchwise_ranking_regularizer(features, targets, 
                 args.interpolation_lambda))
+
         assert not (np.isnan(loss.item()) or loss.item() > 1e6), f"Loss explosion: {loss.item()}"
 
         losses.update(loss.item(), inputs.size(0))
@@ -330,7 +338,7 @@ def validate(val_loader, model, train_labels=None, prefix='Val'):
 
             loss_mse = criterion_mse(outputs, targets)
             loss_l1 = criterion_l1(outputs, targets)
-            loss_all = criterion_gmean(outputs, targets) + 1e-10
+            loss_all = criterion_gmean(outputs, targets)
             losses_all.extend(loss_all.cpu().numpy())
 
             losses_mse.update(loss_mse.item(), inputs.size(0))
