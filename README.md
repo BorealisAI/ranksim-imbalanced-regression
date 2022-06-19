@@ -44,9 +44,9 @@ def batchwise_ranking_regularizer(features, targets, interp_strength_lambda):
 
 ## Usage
 
-Please go into the sub-folder to run experiments for different datasets. More details will be provided very soon. 
+Please go into the sub-folder to run experiments for different datasets. 
 
 - [IMDB-WIKI-DIR](./imdb-wiki-dir)
 - [AgeDB-DIR](./agedb-dir)
-- STS-B-DIR (coming soon)
+- [STS-B-DIR] (./sts-b-dir)
 
