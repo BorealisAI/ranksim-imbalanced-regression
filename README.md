@@ -48,5 +48,5 @@ Please go into the sub-folder to run experiments for different datasets.
 
 - [IMDB-WIKI-DIR](./imdb-wiki-dir)
 - [AgeDB-DIR](./agedb-dir)
-- [STS-B-DIR] (./sts-b-dir)
+- [STS-B-DIR](./sts-b-dir)
 
