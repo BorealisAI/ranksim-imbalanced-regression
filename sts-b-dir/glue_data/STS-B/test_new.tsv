@@ -1,0 +1,1001 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+0	main-captions	MSRvid	2012test	0474	none	none	A woman is frying something in the pan.	A man is playing his guitar.	0.000
+1	main-captions	MSRvid	2012test	0500	none	none	A man is breaking water jugs.	A woman is peeling garlic.	0.200
+2	main-captions	MSRvid	2012test	0745	none	none	A submarine is going through water.	A baby is falling asleep.	0.000
+3	main-captions	MSRvid	2012train	0489	none	none	A man is playing flute.	A man is petting a tied up dog.	0.200
+4	main-captions	MSRvid	2012train	0519	none	none	A woman is riding an elephant.	A man is lifting himself.	0.000
+5	main-captions	MSRvid	2012train	0545	none	none	A man  is driving a car.	A woman dips a shrimp in batter.	0.000
+6	main-captions	MSRvid	2012train	0583	none	none	A young woman is playing the flute.	A woman is washing off the top of a freezer.	0.000
+7	main-captions	MSRvid	2012train	0613	none	none	A man is slam dunking a ball.	A woman is slicing some onions.	0.000
+8	main-captions	MSRvid	2012train	0622	none	none	A woman cuts a pink loaf with a knife.	A man is playing a guitar.	0.118
+9	main-captions	MSRvid	2012train	0723	none	none	A woman puts ingredients in a whisked egg.	A man pours gasoline.	0.000
+10	main-captions	images	2014	0106	none	none	A black dog stands next to materials at a construction site.	An Asian toddler girl sits next to a pot of flowers on a marble post.	0
+11	main-captions	images	2014	0308	none	none	An airplane facing the camera.	A lone cow sits in the cold of the yard.	0
+12	main-captions	images	2014	0426	none	none	A buddha statue holding a candle is sitting on a table.	A man fishing on a small boat while on a lake.	0
+13	main-captions	images	2014	0491	none	none	A close-up of a brown horse's head.	A close-up of a yellow school bus.	0
+14	main-captions	images	2015	0045	none	none	A brown dog laying on a blue cover.	A person is diving into clear blue water.	0.00
+15	main-captions	images	2015	0159	none	none	A tent and a campsite in a sunlit forest.	A white dog on a beach is carrying a stick in its mouth.	0.00
+16	main-captions	images	2015	0321	none	none	Two dogs share a toy in a field of vegetation.	Two snowboarders are in the air over the snow.	0.17
+17	main-captions	images	2015	0328	none	none	A dog runs through a field chasing a ball.	A child runs through the grass.	0.20
+18	main-captions	images	2015	0549	none	none	Man in red shorts and white shirt kicking a soccer ball.	A black dog stands in the surf holding a red rubber ball.	0.00
+19	main-captions	images	2015	1278	none	none	Two birds interacting in the grass	Two dogs play with each other outdoors.	0.20
+20	main-forum	deft-forum	2014	0150	none	none	It doesn't have to be braindead.	I don't have a proposed model.	0
+21	main-news	headlines	2014	0337	none	none	Soccer-France to host Australia for first time in October	NRA official to face questions for first time since controversial remarks	0
+22	main-news	headlines	2014	0560	none	none	Kerry: $4b Palestinian Economic Plan Could Work	Kerry: No deal yet in nuclear talks with Iran	0
+23	main-news	headlines	2014	0612	none	none	P.G. police seeking driver in crash that killed child	Police seek gunmen in New Orleans Mother's Day parade shooting	0
+24	main-news	headlines	2014	0675	none	none	Voting canceled in three provinces in tense Thai election	Cambodian opposition rejects Hun Sen election win	0
+25	main-news	headlines	2015	0714	none	none	Sony Xperia Z2 and Nokia‚Äôs X series unveiled	Court orders political ban on Italy‚Äôs Berlusconi	0.00
+26	main-news	headlines	2015	1114	none	none	Shankill blast victims to be remembered	Crocodile victim's body recovered	0.20
+27	main-news	headlines	2015	1298	none	none	Turkey president appeals for calm	Texas house provisionally approves abortion law	0.00
+28	main-news	headlines	2015	1395	none	none	Italian fugitive arrested in Dominican Republic	Australian icebreaker arrives in East Antarctica for new rescue bid	0.00
+29	main-news	headlines	2015	1478	none	none	Italy bus crash death toll rises	Starbucks clears college degree path for workers	0.00
+30	main-news	headlines	2016	1277	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Li Na to announce retirement	US Senator Ted Cruz to announce presidential bid	0
+31	main-captions	MSRvid	2012test	0575	none	none	A woman is chopping onion.	A man is doing a card trick.	0.000
+32	main-captions	MSRvid	2012test	0653	none	none	The elephants are bathing.	Two women are singing.	0.000
+33	main-captions	MSRvid	2012train	0330	none	none	A woman is applying makeup.	A man is playing a guitar.	0.000
+34	main-captions	MSRvid	2012train	0449	none	none	A woman is feeding a baby.	A man is adding water to pan.	0.000
+35	main-captions	MSRvid	2012train	0593	none	none	A woman is mixing eggs in the bowl.	A man is doing push ups.	0.000
+36	main-captions	MSRvid	2012train	0734	none	none	A man is passionately playing a guitar in front of an audience.	A woman is peeling a potato.	0.000
+37	main-captions	images	2014	0299	none	none	The black bird is sitting on the ground.	The back of a pig under a tree with a cow in the background.	0
+38	main-captions	images	2015	0573	none	none	A man in red swim trunks playing volleyball.	A man and woman sitting on a motorcycle.	0.00
+39	main-captions	track5.en-en	2017	0138	none	none	They are preparing for a performance at school.	Two medical professionals in green look on at something.	0.000000
+40	main-forums	answers-forums	2015	0079	none	none	Edit, again: The question seems to have changed, yet again.	I can think of three reasons why a faculty member might reveal how a student performed on a qualifying examination.	0.00
+41	main-forums	answers-forums	2015	0574	none	none	First of all, as a general matter of fact you suppose to change your workout routine in every 3-4 weeks.	You can mix those, but in my experience, it will be very difficult at first.	0.00
+42	main-forums	answers-forums	2015	0630	none	none	So you know, I do not have personal experience with this.	Since you've already accepted a nicely sourced answer, I'll contribute some unsubstatiated tradition (i.e.	0.20
+43	main-forums	answers-forums	2015	0730	none	none	In Hinduism and Buddhism there is message of peace and an encouragement to not be materialistic.	This relates to the "discovery" of Asian, and other non-European cultures by Americans.	0.00
+44	main-forums	answers-forums	2015	0830	none	none	A caveat: I'm experiencing the tail end of a three day migraine.	I agree with the commentators that your question is a little confusing.	0.00
+45	main-forums	answers-forums	2015	1675	none	none	Here is the 2006 cover release, choice B in your question is the 2006 version.	Wikipedia's compilation of Time Travel Rules is a good resource to check about this subject.	0.20
+46	main-forums	answers-forums	2015	1775	none	none	Red ball under yellow floodlight takes on a brownish color which is very similar to the color of the pitch.	I am too a hobby swimmer but as part of my triathlon training.	0.00
+47	main-forums	answers-forums	2015	1837	none	none	There's a geek answer to this, and a practical answer to this.	It's pretty ridiculous that I've seen airlines ask for these to be turned off at times.	0.00
+48	main-news	headlines	2013	0729	none	none	Spurs get revenge on Lakers, lead West	Abduct Israelis to free prisoners, Gaza leaders say	0
+49	main-news	headlines	2015	0676	none	none	Food poisoning kills at least 20 children in India	Baghdad cafe bombing kills at least 38	0.00
+50	main-captions	MSRvid	2012test	0334	none	none	Someone is greasing a pan.	Smeone is laying down.	0.400
+51	main-captions	MSRvid	2012test	0335	none	none	A man is playing guitar.	A man is draining pasta.	0.400
+52	main-captions	MSRvid	2012test	0336	none	none	A woman is drinking vodka.	A woman is exercising.	0.400
+53	main-captions	MSRvid	2012test	0361	none	none	The man is driving a white car.	A man is giving an interview.	0.400
+54	main-captions	MSRvid	2012test	0515	none	none	A boy is making some dance steps.	A boy is pouring something from a pitcher.	0.400
+55	main-captions	MSRvid	2012test	0558	none	none	A man and woman is riding in a car.	A woman is frying shrimp.	0.400
+56	main-captions	MSRvid	2012train	0320	none	none	A man is peeling potato.	A man is playing a guitar.	0.400
+57	main-captions	MSRvid	2012train	0350	none	none	A woman is dancing.	A woman is slicing ginger.	0.250
+58	main-captions	MSRvid	2012train	0394	none	none	A woman is playing the flute.	A woman is slicing some tuna.	0.400
+59	main-captions	MSRvid	2012train	0428	none	none	A man dries his hands.	A woman fixes her hair.	0.250
+60	main-captions	MSRvid	2012train	0538	none	none	A man is placing meat inside a plastic bag.	A woman is carrying a wallaby in a bag.	0.400
+61	main-captions	MSRvid	2012train	0708	none	none	The girls danced on the stage.	A girl is putting on makeup.	0.333
+62	main-captions	images	2014	0242	none	none	A women and small child sitting at a dinner table smiling at the camera.	A small cat laying on a wooden beam looking up at the camera.	0.4
+63	main-captions	images	2014	0243	none	none	A buddha statue sits on a table with a wooden table runner.	A bird standing on top of a wooden fencepost.	0.4
+64	main-captions	images	2014	0356	none	none	a woman sitting on a sofa holding a baby.	Bird sitting on a log in a lake.	0.4
+65	main-captions	images	2014	0456	none	none	A woman wearing a navy dress is cutting a cake on a white table.	A person wearing a helmet sits on a bicycle on a sunny day.	0.4
+66	main-captions	images	2014	0715	none	none	A black and white cat is sitting on a brown chair looking up.	A dog sitting on a yellow chair next to a green dumpster.	0.4
+67	main-captions	images	2015	0011	none	none	A girl in a purple shirt and pink headband posing	A young girl wearing a hat and blue jeans is on a swing.	0.40
+68	main-captions	images	2015	0311	none	none	A yellow dog is playing in a grassy area near flowers.	A girl is playing on a swing.	0.40
+69	main-captions	images	2015	0386	none	none	Two skinny young boys playing with sand in the water.	Two dogs are shaking water off.	0.40
+70	main-captions	images	2015	0458	none	none	A man in a gray suit locking up a bicycle	A man and a woman standing on a city street.	0.40
+71	main-captions	images	2015	0492	none	none	A young boy is punching a yellow ball.	A small dog jumps over a yellow beam.	0.40
+72	main-news	deft-news	2014	0240	none	none	the european union and the united states have frozen al-qadi's assets.	the western governments include the united states and france.	0.4
+73	main-news	headlines	2013	0414	none	none	Obama praises U.S.-Latin America trade ties	Obama Secret Service agents sent home	0.4
+74	main-news	headlines	2013	0416	none	none	Obama and Romney focus on swing-states	Team Anna yet to decide on contesting state polls	0.4
+75	main-news	headlines	2015	0430	none	none	Philippines defers comment on Taiwan fisher attack	Bin Laden's continuing sway shown in Kenya mall attack	0.40
+76	main-news	headlines	2015	0495	none	none	Dignitaries pay tribute to Paul Desmarais	Stars pay tribute to James Garner	0.40
+77	main-news	headlines	2015	0525	none	none	Russian lawmakers pass new bill restricting Internet	Russia says ballistic 'objects' fired in Mediterranean	0.40
+78	main-news	headlines	2015	0809	none	none	Obama to sign up for Obamacare	Obama visits tornado hit Oklahoma	0.40
+79	main-news	headlines	2015	0940	none	none	Puerto Rican arrested for production of child pornography	Indian guru arrested on suspicion of rape	0.40
+80	main-news	headlines	2015	1088	none	none	Russian coal mines seek new outlets in China	Russian foreign minister to meet UN chief	0.40
+81	main-news	headlines	2015	1124	none	none	Yolanda death toll climbs to 3,621	Kenya Red Cross says death toll rises to 68	0.40
+82	main-news	headlines	2015	1408	none	none	Egyptian protesters issue Morsi resignation ultimatum	Ukraine protesters battle police in new clashes	0.40
+83	main-news	headlines	2015	1476	none	none	A society fraying at the edges	Old TV alignments crack at the edges	0.40
+84	main-captions	MSRvid	2012test	0264	none	none	A woman is slicing a meat.	A woman is singing on stage.	0.250
+85	main-captions	MSRvid	2012train	0215	none	none	A boy is riding a horse.	A monkey is riding a bus.	0.400
+86	main-captions	images	2015	0453	none	none	Three people stand in an outdoor glass structure.	A girl stands high on an obstacle course platform.	0.40
+87	main-captions	images	2015	0781	none	none	A woman stands with her arms out at her sides while another takes a picture.	A man stands in a crowd holding a white object.	0.40
+88	main-captions	track5.en-en	2017	0063	none	none	The carriage is drawn by a horse.	A man riding on a bicycle by side of building.	0.400000
+89	main-forums	answers-forums	2015	0469	none	none	Those expressions could have slightly different meanings especially when talking about finance.	I suspect the phrase originated in the habit of drawing the internet as a cloud shape on network diagrams.	0.40
+90	main-forums	answers-forums	2015	1007	none	none	I would recommend asking questions in a way that doesn't require a yes or no answer.	Would you be concerned with the mind changing if he wasn't shouting and/or misbehaving?	0.40
+91	main-forums	answers-forums	2015	1097	none	none	Here is my advice based on my personal experience pumping breastmilk for twin boys for a full year.	I understand that the first 3 days are the most important, so much so it is vital you do it then.	0.40
+92	main-forums	answers-forums	2015	1433	none	none	I'm not yet able to answer if the phenomenon has an official PoliSci name.	There are 2 problems with the viewpoint you presented in the question, which explain the seeming contradiction.	0.40
+93	main-forums	answers-forums	2015	1636	none	none	I voted for the dyson sphere as being the biggest realistic.	Allen Steele's book Hex describes a Dyson sphere, but made of hexagons, 1000 miles (K?	0.40
+94	main-forums	answers-forums	2015	1788	none	none	Glad to hear you've started playing hockey, its a great sport!	A general rule of thumb is every 5-6 hours of skating.	0.40
+95	main-forums	answers-forums	2015	1835	none	none	Kyoto, at least does, as described here: JR Kyoto Station.	Coin lockers are a feature of most stations in Japan.	0.40
+96	main-news	headlines	2013	0223	none	none	Japan falls silent to mark 311 tragedy	Japan thanks Taiwan for quake aid	0.4
+97	main-news	headlines	2015	0355	none	none	Syrian forces hit mosque with barrel bomb, kill 5	Hunting for clues in Boston bombing	0.40
+98	main-news	headlines	2015	0936	none	none	DPRK leader calls for better ties with S.Korea	North Korea urges foreigners to leave South Korea	0.40
+99	main-news	headlines	2015	1447	none	none	Algeria president gets therapy after stroke: state media	Bulgarian president tries to break election stalemate	0.40
+100	main-captions	MSRvid	2012test	0012	none	none	A man is smoking.	A man is skating.	0.500
+101	main-captions	MSRvid	2012test	0104	none	none	A man is dancing.	A man is talking.	0.600
+102	main-captions	MSRvid	2012test	0135	none	none	A man is fishing.	A man is exercising.	0.500
+103	main-captions	MSRvid	2012test	0201	none	none	A cat is playing a piano.	A man is playing a guitar.	0.600
+104	main-captions	MSRvid	2012test	0342	none	none	A man is rinsing a steak.	A man is playing a guitar.	0.600
+105	main-captions	MSRvid	2012test	0516	none	none	A woman is opening a soda and drinking it.	A woman is riding on an elephant.	0.600
+106	main-captions	MSRvid	2012test	0688	none	none	A woman is speaking in sign language.	A woman spices some seafood.	0.643
+107	main-captions	MSRvid	2012test	0695	none	none	A boy takes off his sunglasses.	A boy is screaming.	0.500
+108	main-captions	MSRvid	2012train	0100	none	none	A man is talking with a woman.	A woman is walking with a dog.	0.500
+109	main-captions	MSRvid	2012train	0126	none	none	A man is singing.	A man is dancing.	0.500
+110	main-captions	MSRvid	2012train	0515	none	none	A man is peeling a potato.	A man is hiking.	0.500
+111	main-captions	MSRvid	2012train	0699	none	none	A man is chopping butter into a container.	A woman is cutting shrimps.	0.600
+112	main-captions	images	2014	0023	none	none	A close up of a brown faced cat.	A close up of an ostrich face.	0.6
+113	main-captions	images	2015	0004	none	none	a bird lands in the water.	a boat floats in the water.	0.60
+114	main-captions	images	2015	0032	none	none	A young girl holds up a peace sign.	A little girl holds onto a pole on a city street.	0.60
+115	main-captions	images	2015	0037	none	none	A man wearing an orange coat speaks to another as they walk in the snow.	A man and woman dressedin old fashion clothing sit outside at a table.	0.60
+116	main-captions	images	2015	0219	none	none	a man wearing a grey jacket standing on the side of a street.	A boy wearing a blue life jacket is holding onto the side of a green boat.	0.60
+117	main-captions	images	2015	0344	none	none	Young boys running along the pavement.	A black dog running along the edge of the ocean.	0.50
+118	main-captions	images	2015	0681	none	none	The black and white dog is swimming in the river.	A black man and his dog on the beach.	0.60
+119	main-captions	images	2015	0909	none	none	A man on skis on a snow-covered hill with mountains in the background	A dog enjoys a romp in the water with mountains and sand in the background.	0.60
+120	main-captions	images	2015	0930	none	none	A man is spraying a fluid from a long hose at the beach.	A guy is sitting on his bike with one wheel in the air.	0.60
+121	main-forum	deft-forum	2014	0009	none	none	Originally Posted by Vienna How was it authoritarian?	Originally Posted by zaf I give up.	0.6
+122	main-news	deft-news	2014	0004	none	none	safe bourada was sentenced to 15 years in prison.	djamel badaoui was sentenced to five years.	0.6
+123	main-news	headlines	2013	0198	none	none	Security official killed in Yemen	Security personnel killed in Pakistan raid	0.6
+124	main-news	headlines	2013	0238	none	none	Salafi Islamists, police clash in Tunis - witnesses	Second Islamist hunger striker dies in a Tunisian prison	0.6
+125	main-news	headlines	2013	0282	none	none	Syrian journalists killed in capital	US Marines killed in base attack	0.6
+126	main-news	headlines	2013	0525	none	none	Israel must release or try Palestinian on prolonged hunger strike	Israeli minister wants Palestinian leader's ouster	0.5
+127	main-news	headlines	2013	0739	none	none	'Betrayed' disabled workers protest against Remploy closures	May Day marked by protests against austerity cuts	0.6
+128	main-news	headlines	2014	0478	none	none	Senior Pakistani Taliban commander captured in Afghanistan	Pakistan Shi'ites demand protection from militants	0.6
+129	main-news	headlines	2015	0106	none	none	22 killed in mine accident in southwestern China	2 killed, dozens injured by blast in southwest Pakistan	0.60
+130	main-news	headlines	2015	0205	none	none	Glasgow helicopter death toll rises to nine	Earthquake death toll rises to 260	0.60
+131	main-news	headlines	2015	0267	none	none	Syria envoy says no peace talks without opposition	Syria: Cameron and Obama move west closer to intervention	0.60
+132	main-news	headlines	2015	0273	none	none	Influential Palestinians Seek One Democratic State	Arab League Backs Palestinian Stance in Peace Talks	0.60
+133	main-news	headlines	2015	1168	none	none	17:02 23 killed in Iraq car bombings	11 children killed in Syria bombings	0.60
+134	main-captions	MSRvid	2012train	0534	none	none	A woman is adding oil on fishes.	The woman is cutting potatoes.	0.600
+135	main-captions	MSRvid	2012train	0718	none	none	A cat retrieves an object out of a dish of water.	The cat tried to eat the corn on the cob.	0.600
+136	main-captions	images	2014	0267	none	none	Children looking a sheep.	Child milking a cow outside.	0.6
+137	main-captions	track5.en-en	2017	0135	none	none	Five kids are standing in front of a tent.	People are out sitting in front of a garden.	0.600000
+138	main-captions	track5.en-en	2017	0140	none	none	Some smiling children are standing in front of an ocean sunset.	People walking in the dark.	0.600000
+139	main-captions	track5.en-en	2017	0149	none	none	A boy does a skateboard trick on the stairs downtown.	a boy is running on the sidewalk	0.600000
+140	main-forums	answers-forums	2015	0403	none	none	The assertion is false, at least as you've restated it here.	"I had mainly been" is fine, in the context you're using it.	0.60
+141	main-forums	answers-forums	2015	0604	none	none	It is not recommended to use greywater on vegetables that you will eat directly.	Adding soap to water allows the water to dissolve oils.	0.60
+142	main-forums	answers-forums	2015	0794	none	none	The bulk of India then was not controlled by Porus, but by the Nanda dynasty, centered at Pataliputra.	I believe Alexander lost heart after his horse, Bucephelus, died from a wound received in the battle against Porus.	0.60
+143	main-forums	answers-forums	2015	0842	none	none	As you can see from this map on the Wals.info site, there are many.	This is an example I always find is helpful for first year.	0.60
+144	main-forums	answers-forums	2015	0988	none	none	If you wear a bear bell on your backpack, your fellow hikers will kill you for being annoying.	The above advice is quite good, just wanted to add on thing to consider regarding food in bear country.	0.60
+145	main-forums	answers-forums	2015	1090	none	none	Most doctors do recommend rice cereal as the first food, as there is almost no worry of allergic reaction.	Eating off a spoon has to be an unusual experience for them.	0.67
+146	main-forums	answers-forums	2015	1386	none	none	Large-format cameras are very much worth buying used; they're often extremely well-cared-for, if not coddled.	If I had to pick, Linhof would be my choice.	0.60
+147	main-forums	answers-forums	2015	1456	none	none	Russian Federal Law is actually quite specific on this one and not as arbitrary as argued.	The last round of presidential elections in Russia was held on March 4th, 2012 and December 4th, 2011 for the Duma.	0.60
+148	main-forums	answers-forums	2015	1667	none	none	According to canon, Leia was an expert in combat, especially shooting (this is from EU books).	In real-world combat, most fire is used to suppress the enemy, not kill them.	0.60
+149	main-news	headlines	2013	0041	none	none	Saudi gas truck blast kills at least 22	Nigeria church blast kills at least 12	0.6
+150	main-captions	MSRvid	2012test	0299	none	none	A man is playing with frogs	A cat is playing with a camera.	0.750
+151	main-captions	MSRvid	2012test	0316	none	none	A man is dancing.	A man is eating bread.	0.800
+152	main-captions	MSRvid	2012test	0413	none	none	A man is rowing a boat.	A man is shooting off a gun.	0.850
+153	main-captions	MSRvid	2012train	0162	none	none	A man is shooting a gun.	A man is slicing a bun.	0.800
+154	main-captions	MSRvid	2012train	0307	none	none	A woman is adding oil on fishes.	A woman is riding a horse.	0.800
+155	main-captions	MSRvid	2012train	0347	none	none	The woman is slicing fish cake.	The woman is riding a horse.	0.800
+156	main-captions	MSRvid	2012train	0349	none	none	A woman is cooking shrimp.	A woman is dancing.	0.800
+157	main-captions	MSRvid	2012train	0425	none	none	A woman is swinging her arms.	A woman is slicing an onion.	0.800
+158	main-captions	MSRvid	2012train	0462	none	none	A boy is riding a bike on a gate.	A woman is riding a horse.	0.800
+159	main-captions	MSRvid	2012train	0468	none	none	A man is playing the piano.	Someone is playing guitar.	0.750
+160	main-captions	MSRvid	2012train	0536	none	none	A man is chopping coriander leaf.	A man is playing a guitar.	0.800
+161	main-captions	MSRvid	2012train	0657	none	none	A man is meditating.	The man is riding the horse.	0.750
+162	main-captions	images	2014	0068	none	none	A small dog looking up at the camera while standing on grass.	A man and women smiling at the camera while standing in a kitchen.	0.8
+163	main-captions	images	2014	0099	none	none	A black and white sheep is walking next to a white sheep.	Little black and white calf with a tag on its ear.	0.8
+164	main-captions	images	2014	0146	none	none	Black bird sitting on a concrete slab.	Small dog sitting next to white wall.	0.8
+165	main-captions	images	2014	0222	none	none	A bicycle is parked outside a bookstore.	People stand outside a bookstore.	0.8
+166	main-captions	images	2014	0396	none	none	A group of people in a living room.	A group of four people walking past a giant mushroom.	0.8
+167	main-captions	images	2014	0561	none	none	a close up of a small cactus in a pot.	a close up of a woman holding a white puppy.	0.8
+168	main-captions	images	2014	0743	none	none	A small cat laying on a wooden beam looking up at the camera.	The small dog is wearing a sweater and looking up at the camera.	0.8
+169	main-captions	images	2015	1093	none	none	A boy jumps into a not-so-crowded public pool.	A man jumps while on a snowboard.	0.80
+170	main-forum	deft-forum	2014	0033	none	none	Martin said, "Why are you following me?"	Zimmerman replied, "What are you doing here?"	0.8
+171	main-forum	deft-forum	2014	0039	none	none	You didn't mention PFA before that one post.	I didn't mention restraining order either.	0.8
+172	main-forum	deft-forum	2014	0204	none	none	You already did that - we have a Muslim in office right now.	-CryptoLutheran No. We have a Christian in office right now.	0.8
+173	main-forum	deft-forum	2014	0332	none	none	And that is happening in GOP controlled states.	Michigan IS a GOP controlled state.	0.8
+174	main-news	MSRpar	2012train	0447	none	none	The broader Standard & Poor's 500 Index <.SPX> was 0.46 points lower, or 0.05 percent, at 997.02.	The technology-laced Nasdaq Composite Index .IXIC was up 7.42 points, or 0.45 percent, at 1,653.44.	0.889
+175	main-news	MSRpar	2012train	0540	none	none	For the year, it expects sales of $94 million and a profit of 26 cents a share from continuing operations.	This is an increase from the $22.5 million and 5 cents a share previously forecast.	0.750
+176	main-news	headlines	2013	0167	none	none	Syria rebels attack Lebanese post near border: army	Turkish army stages tank exercises near Syria border	0.8
+177	main-news	headlines	2013	0205	none	none	5 aid workers freed in operation in Afghanistan	Suicide bomber kills 37 at mosque in Afghanistan	0.8
+178	main-news	headlines	2013	0275	none	none	Man arrested over double murder	WA man arrested in police drug raid	0.8
+179	main-news	headlines	2013	0369	none	none	Factory Fires Kill At Least 260 in Pakistan	At Least Six Dead in Pakistan Gunfight	0.8
+180	main-news	headlines	2013	0392	none	none	Polls close in Egyptian presidential election	Press Releases: Yemeni Presidential Election	0.8
+181	main-news	headlines	2013	0421	none	none	Shooter charged with murder of US black teen	Thoughts on race relations under a black president	0.8
+182	main-news	headlines	2013	0533	none	none	Chicago teacher strike nears end with 'framework' agreement in place	General strike ends: Histadrut, Treasury reach agreement	0.8
+183	main-news	headlines	2013	0538	none	none	At least two Nato killed in Afghanistan helicopter crash: military	At least 18 killed in Afghan bomb attacks: officials	0.8
+184	main-news	headlines	2013	0658	none	none	NATO strike 'kills civilians' in Afghanistan	Two NATO soldiers killed in Afghanistan	0.8
+185	main-news	headlines	2013	0701	none	none	Syrian forces shoot civilians on bus	Syrian forces, rebels clash near Turkey	0.8
+186	main-news	headlines	2014	0172	none	none	Books To Help Kids Talk About Boston Marathon News	Report of two explosions at finish line of Boston Marathon	0.8
+187	main-news	headlines	2015	0178	none	none	Donetsk Region Protesters Detain Trucks Carrying Government Rocket Ammo	Come and get me, says Thai protest leader as anti-government riots grow	0.80
+188	main-news	headlines	2015	0413	none	none	Flash floods kill 58 in eastern Afghanistan	Bomb wounds 16 in eastern Afghanistan	0.80
+189	main-captions	MSRvid	2012train	0263	none	none	A person is mixing a pot of rice.	A person is peeling a potato.	0.778
+190	main-captions	MSRvid	2012train	0535	none	none	A woman is writing something.	A woman is chopping green onions.	0.800
+191	main-captions	images	2014	0071	none	none	The lamb is looking at the camera.	A cat looking at the camera.	0.8
+192	main-captions	images	2014	0354	none	none	Two white dogs are swimming in the water.	The birds are swimming in the water.	0.8
+193	main-forums	answers-forums	2015	0022	none	none	If you don't want to pay for Adobe Acrobat Pro, as @schultem mentions, LaTeX can do this with embedded hyperlinks.	If you don't mind hosting your files online, SlideShare is a good solution.	0.80
+194	main-forums	answers-forums	2015	0834	none	none	Palatalisation of /k/ before front vowels happens all over the place: Russian, Greek, Turkish, Persian etc.	Sinhala, one of the languages spoken in Sri Lanka has a four way deixis system.	0.80
+195	main-forums	answers-forums	2015	1334	none	none	I've used Paint Shop Pro and DxO Optics Pro on Windows.	In Linux I use Bibble, which is has some warts but which is the only serious option AFAICT.	0.80
+196	main-forums	answers-forums	2015	1559	none	none	The user needs to evaluate for his/herself the cost/benefit of an "obvious" efficiency tool, such as macros.	Instead of trying to force specific answers or method's on them.	0.80
+197	main-news	MSRpar	2012test	0001	none	none	The technology-laced Nasdaq Composite Index .IXIC inched down 1 point, or 0.11 percent, to 1,650.	The broad Standard & Poor's 500 Index .SPX inched up 3 points, or 0.32 percent, to 970.	0.800
+198	main-news	MSRpar	2012test	0072	none	none	The technology-laced Nasdaq Composite Index <.IXIC> jumped 26 points, or 1.78 percent, to 1,516.	The broad Standard & Poor's 500 Index .SPX was up 8.79 points, or 0.96 percent, at 929.06.	0.800
+199	main-news	MSRpar	2012test	0234	none	none	The broader Standard & Poor's 500 Index <.SPX> eased 7.57 points, or 0.76 percent, at 990.94.	The technology-laced Nasdaq Composite Index was down 25.36 points, or 1.53 percent, at 1,628.26.	0.800
+200	main-captions	MSRvid	2012test	0069	none	none	A woman is playing the flute.	A man is playing the guitar.	1.000
+201	main-captions	MSRvid	2012test	0172	none	none	A man is running on the road.	A car is driving down the road.	1.000
+202	main-captions	MSRvid	2012test	0191	none	none	A woman is picking a can.	A woman is slicing a tomato.	1.000
+203	main-captions	MSRvid	2012test	0238	none	none	A man is playing a guitar.	A man is stabbing a target.	1.200
+204	main-captions	MSRvid	2012train	0139	none	none	A woman is slicing an onion.	A man is slicing a tomato.	1.200
+205	main-captions	MSRvid	2012train	0406	none	none	A man is slicing a potatoe.	A man is peeling a banana.	1.000
+206	main-captions	MSRvid	2012train	0423	none	none	A person is frying.	A person is peeling a potato.	1.200
+207	main-captions	MSRvid	2012train	0712	none	none	A man is putting broccoli into water.	A person is peeling a potato.	1.000
+208	main-captions	images	2014	0260	none	none	A woman in a black bikini top and jeans.	A woman in a black hat is standing by the subway.	1
+209	main-captions	images	2015	0078	none	none	A little girl with a ribbon in her hair is picking her nose.	A little girl in a purple shirt and helmet is riding on a scooter.	1.20
+210	main-captions	images	2015	0905	none	none	The black and white dog has a stick in his paws.	A black dog and a white dog are standing on snow.	1.20
+211	main-captions	images	2015	1075	none	none	The dog returns the play toy to its master.	Three dogs race in the snow together.	1.00
+212	main-captions	images	2015	1468	none	none	A group of people are walking down the sidewalk of a big city.	A group of people are riding in the back of a truck.	1.00
+213	main-forum	deft-forum	2014	0122	none	none	"Fairies don't exist" - fine.	"Leprechauns don't exist" - fine.	1
+214	main-forum	deft-forum	2014	0383	none	none	fix?: Islam itself is not political.	Islam has always been political.	1.2
+215	main-forum	deft-forum	2014	0402	none	none	Some believe the 'right' is most important.	Some believe not slaughtering the unborn is most important.	1.2
+216	main-forum	deft-forum	2014	0435	none	none	runs victim down Got any proof?	paranoid Got any proof?	1
+217	main-news	deft-news	2014	0139	none	none	bulgaria is located on the southeastern part of the balkan peninsula.	drug-trafficking activity is rampant in the southeastern part of the balkan peninsula.	1
+218	main-news	headlines	2013	0152	none	none	Rupert Murdoch: I was the victim of a cover up	Rupert Murdoch set for second day of grilling	1.2
+219	main-news	headlines	2013	0174	none	none	Breivik drops far-right salute in court	Breivik gets 21-year sentence	1
+220	main-news	headlines	2013	0201	none	none	NATO sticks to transition roadmap in Afghanistan: Rasmussen	NATO helicopter makes hard landing in E. Afghanistan	1
+221	main-news	headlines	2013	0460	none	none	Attack on Nato base in Afghanistan kills 15	Aid workers freed in Afghanistan raid	1
+222	main-news	headlines	2013	0526	none	none	UN report says both sides in Syria abuse rights	NATO leader plays down risk of Turkey-Syria clash	1
+223	main-news	headlines	2013	0697	none	none	Taiwan rattled by strong earthquake	China rocked by twin earthquakes	1.2
+224	main-news	headlines	2014	0289	none	none	UN resolution orders Syria chemical arms destroyed	Germany ready to help Syria chemical mission	1
+225	main-news	headlines	2014	0497	none	none	French train derails south of Paris	French train passengers tell of crash ordeal	1.2
+226	main-news	headlines	2014	0520	none	none	Indian troops kill Pakistani soldier along Kashmir line of control	Indian troops raid Pakistani military post	1.2
+227	main-news	headlines	2014	0633	none	none	26 Palestinian prisoners released from Israeli prison	Palestinian prisoner dies of cancer, unrest in Israel jails	1
+228	main-news	headlines	2014	0702	none	none	Russia Destroys Over 75% of Its Chemical Weapons Stockpile	Britain Sees Evidence Assad Could Use Chemical Weapons	1
+229	main-news	headlines	2014	0729	none	none	Many killed in Japan road tunnel collapse	Many killed in Syrian air strike	1.2
+230	main-news	headlines	2015	0506	none	none	'Western' forces attack Islamic militant base in Somalia	Western powers scramble to befriend Modi	1.00
+231	main-news	headlines	2016	0947	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Iran's parliament backs nuclear deal	Iran hardliners attack nuclear deal	1
+232	main-news	headlines	2016	1028	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Israeli forces arrest 21 Palestinians overnight, clash with locals	Israeli security forces arrest 8 Palestinians in overnight West Bank sweeps	1
+233	main-news	headlines	2016	1239	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Thousands cross Austria-Hungary border	Thousands of Russians stranded abroad	1
+234	main-news	headlines	2016	1278	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Gunners fire but fail to advance in Champions League	EPL clubs out to avoid Champions League woes	1
+235	main-captions	MSRvid	2012test	0338	none	none	A man is playing an electronic keyboard.	A man is playing a flute.	1.200
+236	main-captions	MSRvid	2012train	0379	none	none	A woman is playing the flute.	A man is playing a keyboard.	1.000
+237	main-captions	images	2015	0140	none	none	Two girls in blue and teal dresses and large hats are standing next to a large tree trunk.	A woman, a little boy, and a tiny baby are standing in front of a cow statue.	1.20
+238	main-captions	images	2015	0828	none	none	A dog and a red ball in the air.	A dog digs a hole in a yard.	1.00
+239	main-captions	track5.en-en	2017	0002	none	none	A woman supervisor is instructing the male workers.	A woman is working as a nurse.	1.000000
+240	main-captions	track5.en-en	2017	0073	none	none	The four women are practicing for a upcoming match.	The women are in a play	1.200000
+241	main-captions	track5.en-en	2017	0077	none	none	There is a young girl.	There is a young boy with the woman.	1.000000
+242	main-captions	track5.en-en	2017	0167	none	none	The boy in the green jersey plays goalie on the soccer team.	The team in blue is playing a game against the team in white	1.000000
+243	main-forums	answers-forums	2015	0533	none	none	I recently stumbled on a great article that talks about protein consumption for the purposes of building muscle (recovery included).	Low reps with high weights don't add mass because the duration of the exercise is kept short.	1.00
+244	main-forums	answers-forums	2015	0708	none	none	Nearly all countries grew quickly in the 1950s and 1960s for pretty much the same reasons.	The USSR growth rate during the 50's was not exceptionally high.	1.00
+245	main-forums	answers-forums	2015	1260	none	none	Not all negative claims can be validly reformulated into positive claims.	I don't think the burden of proof is on positive or negative versions.	1.00
+246	main-forums	answers-forums	2015	1732	none	none	To play golf, the first thing you need is a set of clubs.	Having fairly recently taken up the sport myself, I feel your discomfort.	1.20
+247	main-forums	answers-forums	2015	1860	none	none	The answer will depend significantly on what country you're traveling to.	As someone who has always travelled with a lot of prescription medication, I always declare it.	1.00
+248	main-news	headlines	2014	0153	none	none	Thai police use tear gas against protesters	Brazil leader breaks silence about protests	1
+249	main-news	headlines	2014	0477	none	none	2 Pussy Riot Members Reunited in Krasnoyarsk	Freed Pussy Riot pair stir up anti-Putin protests	1.2
+250	main-captions	MSRvid	2012test	0094	none	none	A man is riding a motorcycle.	A man is riding a horse.	1.400
+251	main-captions	MSRvid	2012test	0482	none	none	A woman is deboning a fish.	A man catches a fish.	1.250
+252	main-captions	MSRvid	2012test	0715	none	none	A woman is slicing an onion with a knife.	A man is preparing some dish.	1.250
+253	main-captions	MSRvid	2012train	0130	none	none	Someone is peeling a potato.	Someone is slicing a tomato.	1.400
+254	main-captions	MSRvid	2012train	0159	none	none	A man is riding a horse.	A man is driving a car.	1.400
+255	main-captions	MSRvid	2012train	0160	none	none	A man is riding a horse.	A man is driving a car.	1.400
+256	main-captions	MSRvid	2012train	0255	none	none	A man is playing a guitar.	A man in a hat is playing a harp.	1.400
+257	main-captions	MSRvid	2012train	0256	none	none	A man is playing on his keyboard.	A man is playing a guitar.	1.400
+258	main-captions	MSRvid	2012train	0557	none	none	A man is playing an electronic keyboard.	A band is playing instruments.	1.250
+259	main-captions	MSRvid	2012train	0694	none	none	A child is walking down the street as a jeep pulls up.	A woman is walking along a road and a man in a motorcar pulls up beside her.	1.400
+260	main-captions	images	2014	0031	none	none	A black and white photo of a woman showing a horse.	a black and white photo of cows in their stalls.	1.4
+261	main-captions	images	2014	0174	none	none	A lamb stands near two tiny animals.	A sheep standing near her children.	1.4
+262	main-captions	images	2014	0197	none	none	A pot of liquid is at the center of a tinfoil covered plate.	A pot of food is placed in the center of a red tablecloth.	1.4
+263	main-captions	images	2014	0352	none	none	A steam engine comes down a train track near trees.	A train is at a train station.	1.4
+264	main-captions	images	2015	0208	none	none	two girls holding up a scary movie flyer	Two girls holding sacks are standing in a field.	1.40
+265	main-captions	images	2015	0821	none	none	Two little girls are playing on a trampoline.	Two little boys are playing on a playground.	1.40
+266	main-captions	images	2015	0906	none	none	A white dog running through the snow	The black and white dog runs through the grass.	1.40
+267	main-captions	images	2015	1370	none	none	The white and brown dog is shaking its ears.	The brown dog is running across the sand.	1.40
+268	main-captions	images	2015	1388	none	none	A skier wearing blue snow pants is flying through the air near a jump.	A skier stands on his hands in the snow in front of a movie camera.	1.40
+269	main-news	MSRpar	2012test	0006	none	none	Darren Dopp, a Spitzer spokesman, declined to comment late Thursday.	John Heine, a spokesman for the commission in Washington, declined to comment on Mr. Spitzer's criticism.	1.400
+270	main-news	MSRpar	2012test	0432	none	none	Britz earned $3.77 million in salary, bonus and other compensation, and Kinney earned $3.76 million.	Johnston made $5.8 million in salary and bonus in 2001 as president, and as a part-time adviser earned $1 million in 2002.	1.400
+271	main-news	MSRpar	2012test	0448	none	none	Its shares fell 71 cents, or 3.5 percent, in after-hours trading to $19.55.	The stock had risen 63 cents, or 3 percent, to close at $20.26 in regular-session Nasdaq trading.	1.250
+272	main-news	MSRpar	2012train	0059	none	none	Only New Jersey now bans holders of learners permits or intermediate licenses from using cell phones, pagers or other wireless devices while driving.	In addition, the NTSB also recommended to NHTSA that state legislation be enacted to prohibit holders of learners permits and intermediate licenses from using mobile phones while driving.	1.400
+273	main-news	MSRpar	2012train	0716	none	none	Still, revenues from the extra premiums would not be huge.	How would the extra premiums be collected?	1.333
+274	main-news	deft-news	2014	0160	none	none	police arrested 2 honduran drug trafficking suspects.	bulgarian police arrest head of drug trafficking group.	1.4
+275	main-news	headlines	2013	0332	none	none	Full Episode: Nightline 6/29: Katie Holmes, Tom Cruise to Divorce	Custody, images at stake in Cruise-Holmes divorce	1.4
+276	main-news	headlines	2013	0534	none	none	Indonesian president to visit UK	Indonesian president to visit Australia	1.4
+277	main-news	headlines	2013	0674	none	none	Man charged after MP hurt in attack	Man charged with murder in flat	1.4
+278	main-news	headlines	2014	0149	none	none	Snowden asks to stay in Russia	Snowden releases first Russia video	1.4
+279	main-news	headlines	2014	0182	none	none	Car bombing kills 53 in Damascus	Car bombings kill 13 civilians in Iraqi capital	1.4
+280	main-news	headlines	2014	0515	none	none	China quake: Death toll rises	China flu death toll rises to six	1.4
+281	main-news	headlines	2014	0670	none	none	occupied Palestinian territory: Palestinians rebuff US peace talks blueprint	occupied Palestinian territory: Palestinians Face a Route to Nowhere	1.4
+282	main-news	headlines	2014	0743	none	none	Pak missions in UAE gear up for elections	Islamist parties in Egypt unite for elections	1.4
+283	main-news	headlines	2015	0455	none	none	Extremists claim responsibility for Niger attacks	Greek militant group claims responsibility for Golden Dawn killings	1.40
+284	main-news	headlines	2015	0482	none	none	Gunman who held suburban Atlanta firefighters hostage now dead, police say	The Lede: Video: Gunman Takes Firefighters Hostage in Georgia	1.40
+285	main-news	headlines	2015	0543	none	none	Asian markets mixed on China trade data	Asian markets slump on central bank stimulus fears	1.40
+286	main-news	headlines	2015	0835	none	none	Syrians Protest against Erdogan in Paris, Venezuelans Stress Support to Syria	Turkey's Erdogan in Iran to mend ties after split over Syria	1.40
+287	main-news	headlines	2015	1117	none	none	118 people killed in twin blasts in Nigeria	Ten killed in new blast in Russia	1.40
+288	main-news	headlines	2015	1367	none	none	Bomb blast rocks shopping mall in Nigeria, 12 killed	Bomb blasts before Indian opposition rally kill 4	1.40
+289	main-news	headlines	2015	1390	none	none	Egypt's Muslim Brotherhood Refuses to Back Down	Egyptian court sentences Muslim Brotherhood leader to life in prison	1.40
+290	main-captions	MSRvid	2012train	0124	none	none	A man is dancing.	A man is singing.	1.250
+291	main-captions	MSRvid	2012train	0125	none	none	A man is running.	A man is singing.	1.250
+292	main-captions	track5.en-en	2017	0096	none	none	A man calling for a taxi at the airport on a sunny day.	A man is outside on a July day.	1.400000
+293	main-captions	track5.en-en	2017	0200	none	none	A basketball player makes the 5th rebound of the night,	A tennis player in the middle of a game.	1.400000
+294	main-captions	track5.en-en	2017	0222	none	none	Two boys in black swimming trunks are holding another boy by his arms and legs on a beach.	Man in white shirt flipping young boy in the water with four other boys surrounding them.	1.400000
+295	main-forums	answers-forums	2015	0344	none	none	The recipe I work from has you put the meat in the freezer, then pan sear it.	Starting with a whole chilled piece of meat, I quickly pour boiling water over all the outside surface.	1.40
+296	main-forums	answers-forums	2015	0467	none	none	This may be overly obvious, but in American English, saying "you're welcome" is certainly polite and standard.	I'm not sure how "Not at all" sounds in response to "thank you".	1.40
+297	main-forums	answers-forums	2015	0874	none	none	From what I'm seeing it's generally accepted that most English speakers have a vocabulary size of 15000 to 20000 words.	According to a statistical estimation I know roughly 7000 words in English.	1.40
+298	main-news	MSRpar	2012train	0005	none	none	Amgen shares gained 93 cents, or 1.45 percent, to $65.05 in afternoon trading on Nasdaq.	Shares of Allergan were up 14 cents at $78.40 in late trading on the New York Stock Exchange.	1.333
+299	main-news	headlines	2014	0087	none	none	Today in History, April 23	Today in History, Jan. 21	1.4
+300	main-captions	MSRvid	2012test	0087	none	none	A cat is playing a key board.	A man is playing two keyboards.	1.600
+301	main-captions	MSRvid	2012test	0126	none	none	A man and woman are talking.	A man and woman is eating.	1.600
+302	main-captions	MSRvid	2012test	0180	none	none	A man is playing a flute.	A man is playing a piano.	1.600
+303	main-captions	MSRvid	2012test	0182	none	none	A man is spinning.	A man is dancing.	1.600
+304	main-captions	MSRvid	2012test	0511	none	none	A dog is playing in the snow.	A dog is pawing at a fly in the carpet before it.	1.600
+305	main-captions	MSRvid	2012test	0620	none	none	The woman is putting paste into a dish.	A woman is pulling some kind of sticky goo out of a bowl.	1.500
+306	main-captions	MSRvid	2012train	0099	none	none	A person is cutting a capsicum into pieces.	A person is slicing a garlic into pieces.	1.600
+307	main-captions	MSRvid	2012train	0173	none	none	A person is slicing a carrot into pieces.	A person is cutting an onion into pieces.	1.500
+308	main-captions	MSRvid	2012train	0485	none	none	A dog is looking around	A dog is watching a store counter.	1.600
+309	main-captions	images	2014	0170	none	none	Two horses standing in a pen.	A group of horses grazing in a field.	1.6
+310	main-captions	images	2014	0505	none	none	A small child smiling at the camera.	A small child sits on a cement wall near white flower.	1.6
+311	main-captions	images	2014	0528	none	none	A tiny blonde child in a blue dress sits on a table near her mother.	A young blonde girl wearing a helmet sits with a red bicycle behind her.	1.6
+312	main-captions	images	2014	0569	none	none	Two men wearing bike helmets.	Two men stand with their bicycles outside a shop.	1.6
+313	main-captions	images	2015	0123	none	none	A man is swinging on a rope above the water.	A man in warm clothes swinging on monkey bars at night.	1.60
+314	main-captions	images	2015	0346	none	none	a black and white dog running through some red and white poles	Black and white dog in living room standing on hind legs.	1.60
+315	main-captions	images	2015	1149	none	none	A woman dressed in green is playing with her tan dog.	A tan dog licks a girls hand while laying down.	1.60
+316	main-captions	images	2015	1197	none	none	A group of four children dancing in a backyard.	A group of children do stretches on colored mats.	1.60
+317	main-captions	images	2015	1311	none	none	A brown dog chases a Frisbee	A brown dog squating on grass.	1.60
+318	main-captions	images	2015	1490	none	none	A baseball player throws the ball.	The basketball player holds the ball.	1.60
+319	main-forum	deft-forum	2014	0132	none	none	What isn't how what was sold?	It's not how it was sold, gb.	1.6
+320	main-forum	deft-forum	2014	0403	none	none	Evolution is not an opinion, not a belief.	Atomic theory is not an opinion, not a belief.	1.6
+321	main-forum	deft-forum	2014	0408	none	none	billion . Everyone in the world at Mexico's current prosperity level.	Everyone in the world at the current "prosperity" level of Northwest Africa.	1.53333333333333
+322	main-forum	deft-forum	2014	0411	none	none	You seem to think that poor people are not responsible for their actions.	People are responsible for their actions.	1.6
+323	main-news	MSRpar	2012test	0290	none	none	The arrests revealed new details about the four-month investigation at Selenski's Mount Olivet Road home.	Kerkowski and Fassett's bodies were unearthed at Selenski's Mount Olivet Road home on June 5.	1.500
+324	main-news	MSRpar	2012test	0514	none	none	The tech-heavy Nasdaq composite index fell 3.99, or 0.2 percent, to 1,682.72, following a two-day win of 55.93.	The technology-laced Nasdaq Composite Index .IXIC eased 8.52 points, or 0.51 percent, to 1,670.21.	1.500
+325	main-news	MSRpar	2012test	0541	none	none	That compared with $35.18 million, or 24 cents per share, in the year-ago period.	Earnings were affected by a non-recurring $8 million tax benefit in the year-ago period.	1.600
+326	main-news	deft-news	2014	0180	none	none	drug traffickers face the death penalty under tajik law.	afghan drug trafficker was caught in tajikistan.	1.6
+327	main-news	headlines	2013	0044	none	none	Two U.S. soldiers shot, killed by Afghan soldier	Two British soldiers killed by Afghan policeman	1.6
+328	main-news	headlines	2013	0087	none	none	No damage, tsunami after 6.6 quake hits off Indonesia's Sumatra	5.9 quake hits Indonesia s Sumatra: USGS	1.6
+329	main-news	headlines	2013	0349	none	none	AL renews condemnation on Syria's violence	U.S. closes embassy in Damascus due to Syria violence	1.6
+330	main-news	headlines	2013	0505	none	none	Hong Kong stocks close down 0.28%	Hong Kong stocks open 0.62 pct higher	1.6
+331	main-news	headlines	2014	0037	none	none	Egypt minister survives assassination attempt	Syrian prime minister 'survives assassination attempt'	1.6
+332	main-news	headlines	2014	0422	none	none	Protests continue in tense Ukraine capital	Protests continue in Brazil	1.6
+333	main-news	headlines	2014	0480	none	none	Stocks close 0.39% higher	Singapore stocks close 0.31 pct lower	1.6
+334	main-news	headlines	2014	0524	none	none	Brazilian leader holds crisis talks on street protests	Brazil leader promises reform vote	1.6
+335	main-news	headlines	2015	0432	none	none	Crowds, Dignitaries Gather for Mandela Memorial Service	Obama takes 'selfie' at Mandela's funeral service	1.60
+336	main-news	headlines	2015	1054	none	none	Radio: Israel set to increase Palestinian prisoner release	US: Israel to delay Palestinian prisoner release	1.60
+337	main-news	headlines	2015	1110	none	none	Protesters swamp streets to reclaim revolution	Egypt: Protesters storm Muslim Brotherhood's HQ	1.60
+338	main-news	headlines	2015	1458	none	none	Pakistani Taliban chief killed in US drone strike	Funeral for Pakistan Taliban chief 'set to take place'	1.60
+339	main-captions	images	2014	0511	none	none	Young baby girl sitting on table.	A woman with a smiling baby sitting on the table.	1.6
+340	main-captions	track5.en-en	2017	0137	none	none	Baseball players playing a game at the park.	A basketball player, playing in the home coming game.	1.600000
+341	main-captions	track5.en-en	2017	0238	none	none	Blond woman in a tunnel.	The couple kissing is near a blond woman.	1.600000
+342	main-forums	answers-forums	2015	0119	none	none	Let us assume the data for a globular cluster to be equivalent to that of M13.	Globular clusters occupy an interesting place in the spectrum of composite stellar systems.	1.60
+343	main-forums	answers-forums	2015	0267	none	none	These are interesting studies, but the bottom line is: yes, environment affects cognitive abilities.	I'm not sure what you mean by cognitive capacity, but I absolutely believe that language shapes the way we think.	1.60
+344	main-forums	answers-forums	2015	0310	none	none	In addition to oil, make sure the grill is nice and hot before you start cooking.	I'd been using paper towels to oil the grill, and I just discovered that newspapers work a lot better.	1.60
+345	main-forums	answers-forums	2015	0328	none	none	I've stored pancakes in the freezer for over two month and not had any freezer burn.	Its going to depend on the type of packaging and also the freezer.	1.60
+346	main-forums	answers-forums	2015	1126	none	none	First, double-check the dog's body language to make sure that it is truly aggressive.	First, you should realize that this is not you or your dog's problem.	1.60
+347	main-forums	answers-forums	2015	1183	none	none	The biggest reason I can think of is that you're taking away a defence mechanism for the cat.	Cats don't usually like to have their paws held, touched, or anything like that.	1.60
+348	main-forums	answers-forums	2015	1406	none	none	Leaving aside heath care angle, you are working from a flawed premise that waging war doesn't save lives.	Healthcare They would probably reject your implied claim that Obama's healthcare law will save lives.	1.60
+349	main-news	headlines	2015	1172	none	none	Israelis and Palestinians aim to negotiate a 'final' peace deal after positive talks	Israeli army kills 3 Palestinian militants in West Bank clashes	1.60
+350	main-captions	MSRvid	2012test	0416	none	none	A man holds a small animal in one hand.	A man shows off a small monkey.	1.750
+351	main-captions	MSRvid	2012test	0708	none	none	A woman is dicing a potato.	A woman cuts tofu into tiny pieces.	1.800
+352	main-captions	MSRvid	2012train	0092	none	none	The man is playing a guitar.	A baby is playing a guitar.	1.800
+353	main-captions	MSRvid	2012train	0104	none	none	A man is playing a guitar.	A woman is playing a flute.	1.800
+354	main-captions	images	2014	0277	none	none	A passenger jet sits on a runway.	A large passenger jet flying close to the ground.	1.8
+355	main-captions	images	2014	0726	none	none	A close-up of a sheep in the grass.	A close-up of a lamb with its ear tagged, standing on grass.	1.8
+356	main-captions	images	2015	0783	none	none	A black dog running in the snow.	A black dog running on a beach.	1.80
+357	main-captions	images	2015	1159	none	none	A little boy is standing in front of a wedding party laughing.	A person standing on a stage in front of a seated crowd	1.80
+358	main-captions	images	2015	1341	none	none	The man is riding a bike down a dirt hill.	A trick bicyclist grinds down a handrail.	1.80
+359	main-forum	deft-forum	2014	0202	none	none	Not as irritated as you.	You seem as irritated as Henry.	1.75
+360	main-forum	deft-forum	2014	0298	none	none	Landon And So This is Christmas We are all vessels filled with many wonders.	Play With Fire We are all vessels filled with many wonders.	1.8
+361	main-forum	deft-forum	2014	0342	none	none	The great thing about living here is there's space.	The bad thing is there's space.	1.8
+362	main-forum	deft-forum	2014	0424	none	none	Bush gets zero credit for the budget under him.	And, Obama gets zero credit for the budget under him.	1.8
+363	main-news	MSRpar	2012test	0215	none	none	Shares of Coke were up 6 cents at $44.42 in afternoon trading Wednesday on the New York Stock Exchange.	Shares of Coke were down 26 cents to close at $44.10 on the New York Stock Exchange.	1.846
+364	main-news	MSRpar	2012test	0436	none	none	The Dow Jones Industrial Average was up 0.3 per cent at 9,886.75, while the Nasdaq Composite index was 0.4 per cent higher at 1,986.97.	On Wall Street, the Dow Jones Industrial Average rose 0.5 per cent at 9,905.8 and the Nasdaq Composite added 0.7 per cent at 1,995.1.	1.800
+365	main-news	MSRpar	2012train	0688	none	none	The jury awarded TVT about $23 million in compensatory damages and roughly $108 million in punitive damages.	TVT Records sought $360 million in punitive damages and $30 million in compensatory damages, officials said.	1.750
+366	main-news	deft-news	2014	0087	none	none	france provides the rockets, guns and engines.	britain provides fuel tanks and gearboxes.	1.8
+367	main-news	deft-news	2014	0106	none	none	the plan for tunisia is the creation of electronic databases to facilitate tax collection.	the plan for nigeria and mozambique is the creation an electronic database for real estate.	1.8
+368	main-news	deft-news	2014	0132	none	none	the panamanian foreign ministry communique stated that the task force will facilitate the technological transfer and promote the biofuel production and consumption.	the panamanian foreign ministry communique stated that panama and brazil signed 3 juridical-issue treaties that included an extradition	1.8
+369	main-news	deft-news	2014	0159	none	none	many of the attacks originated abroad.	estonian officials stated that the attacks originated in russia.	1.8
+370	main-news	headlines	2013	0431	none	none	France says Greece must show credibility for eurozone	France's Hollande backs Greece but urges credible reform	1.8
+371	main-news	headlines	2013	0489	none	none	Toys R Us waives fee for layaway program	Wal-Mart lowers fee for holiday layaway program	1.8
+372	main-news	headlines	2013	0738	none	none	2 rockets hit in the Eshkol region; no injuries	10 rockets in 20 minutes in Eshkol Regional Council	1.8
+373	main-news	headlines	2014	0143	none	none	Israel strikes Syria as tensions rise on weapons	Air strikes wound civilians in Syria's Deraa	1.8
+374	main-news	headlines	2014	0324	none	none	Suicide bomber kills 13 in Russia's south	Suicide bomber kills 16 in Russia’s Volgograd	1.8
+375	main-news	headlines	2014	0325	none	none	41 killed, 22 wounded in violent attacks in Iraq	15 killed, 90 wounded in fresh attacks in Iraq	1.8
+376	main-news	headlines	2014	0453	none	none	Obama mourns death of icon Nelson Mandela	South Africans mourn, celebrate Mandela	1.8
+377	main-news	headlines	2014	0460	none	none	What the Papers Say, Mar. 12, 2013	What the Papers Say, June 25, 2013	1.8
+378	main-news	headlines	2014	0506	none	none	Rupee down 8 paise vs dollar in early trade	Rupee up 22 paise against dollar in early trade	1.8
+379	main-news	headlines	2014	0559	none	none	Syria car bomb kills at least 12 in rebel-held town	Sinai car bomb kills at least 10 Egyptian soldiers	1.8
+380	main-news	headlines	2014	0597	none	none	American investigators waiting to question arrested Boston bomber	Police converge on street in search for Boston bomb suspect	1.8
+381	main-news	headlines	2014	0671	none	none	Owners, others charged in Bangladesh factory fire	50 survivors found in Bangladesh factory	1.8
+382	main-news	headlines	2014	0674	none	none	Palestinians, Jordan coordinate stances on peace talks	Hamas senior denies Gaza, PA coordinated on peace talks	1.8
+383	main-news	headlines	2015	0446	none	none	Today in History, Dec. 2	Today in History, April 23	1.80
+384	main-news	headlines	2015	0664	none	none	India Ink: Image of the Day: May 21	India Ink: Image of the Day: January 16	1.80
+385	main-news	headlines	2015	1050	none	none	China yuan strengthens to 6.1184 against USD Tuesday	China yuan weakens to 6.1510 against USD	1.80
+386	main-news	headlines	2015	1125	none	none	Tokyo stocks close up 0.13pc	Tokyo stocks close 0.75pc down	1.80
+387	main-news	headlines	2015	1163	none	none	2 Indian traders stranded in China sent back home	46 Indian nurses stranded in Iraq return home	1.80
+388	main-captions	images	2015	0402	none	none	A brown and white dog is catching a tennis ball while standing on its hind legs.	the brown and white dog is carrying a stick in his mouth.	1.80
+389	main-captions	track5.en-en	2017	0013	none	none	A man is carrying a canoe with a dog.	A dog is carrying a man in a canoe.	1.800000
+390	main-forums	answers-forums	2015	0337	none	none	I  believe one cannot taste the difference between minced(canned) and fresh garlic once it is cooked.	In my experience, fresh garlic is great for when you want texture, or to slow down the flavour infusion.	1.80
+391	main-forums	answers-forums	2015	0401	none	none	In some cases the implication could even be that Tom does not love her.	There is no implication about Tom whatsoever in such a sentence.	1.80
+392	main-forums	answers-forums	2015	0507	none	none	Yes, you should stretch before running, but not the sit down and reach kind of stretching.	Neuromuscular Activation and Dynamic Stretching Here is an excellent video on a dynamic stretching routine for running.	1.80
+393	main-forums	answers-forums	2015	0817	none	none	The difficulty arises not from the various linguistic properties of the language pair as many here suggest.	It depends on generally syntactic structure of two languages and -yes- some pragmatic issues.	1.80
+394	main-forums	answers-forums	2015	1243	none	none	The Question is (from Hinduism); do you exist because of pregnancy?	The least that can be said is that we must be born with the ability and 'knowledge' to learn.	1.80
+395	main-forums	answers-forums	2015	1634	none	none	I started watching the Stargate series by watching Atlantis first!	Without delving into an in-depth analysis of Atlantis and Universe, I'll try and be as succinct as possible.	1.80
+396	main-forums	answers-forums	2015	1954	none	none	Yes, dull dialog should be removed completely (or transformed to interesting dialog).	I agree with Lauren's answer: You need highs and lows in any story.	1.80
+397	main-news	MSRpar	2012test	0231	none	none	The Recording Industry Association of America says it plans to sue the song traders next month.	That is, if the Recording Industry Association of America has anything to say about it.	1.750
+398	main-news	headlines	2013	0419	none	none	Toulouse siege: Police surround flat of 'Islamic warrior' suspected of being serial killer	Toulouse shooting: France was on the highest level of security of security alert	1.8
+399	main-news	headlines	2013	0553	none	none	Breivik complains of 'ridicule'	Breivik: Jail term 'ridiculous'	1.8
+400	main-captions	MSRvid	2012test	0108	none	none	A tiger cub is making a sound.	A tiger is walking around.	2.000
+401	main-captions	MSRvid	2012test	0176	none	none	A man is riding a bike.	A man is riding on a horse.	2.000
+402	main-captions	MSRvid	2012test	0379	none	none	A dog is looking into swimming pool.	A dog is walking around a pool.	2.000
+403	main-captions	MSRvid	2012train	0043	none	none	A man is playing a flute.	A man is playing a guitar.	2.000
+404	main-captions	MSRvid	2012train	0049	none	none	A man is playing a flute.	A man is playing a guitar.	2.000
+405	main-captions	MSRvid	2012train	0083	none	none	A kid is playing guitar.	A man is playing a guitar.	2.200
+406	main-captions	MSRvid	2012train	0091	none	none	A woman is cutting an onion.	A man is chopping an onion.	2.000
+407	main-captions	MSRvid	2012train	0434	none	none	The monkey is hanging from the trees.	The monkey swung from branch to branch.	2.000
+408	main-captions	MSRvid	2012train	0667	none	none	Someone is scratching an animals belly.	A woman is stroking a lemur.	2.000
+409	main-captions	images	2014	0261	none	none	A girl riding a brown horse.	The jockey is wearing purple and riding a brown horse.	2.2
+410	main-captions	images	2014	0473	none	none	A man riding a white horse.	A woman with a white horse.	2.2
+411	main-captions	images	2014	0727	none	none	Domestic cat laying on back of cat litter.	Tan domestic cat under black tarp.	2
+412	main-captions	images	2015	0286	none	none	A man chases a dog trying to pass the barrier to enter a play area.	A man follows his black and white dog as it takes on an obstacle course.	2.20
+413	main-captions	images	2015	0482	none	none	a group of old men walking down the street	A couple walking down the street.	2.00
+414	main-captions	images	2015	0484	none	none	Three dogs standing in snow next to a blue fence.	Three dogs play in the shallows next to a rocky shore.	2.20
+415	main-captions	images	2015	1336	none	none	A brown dog sits on the beach.	A dog running on the beach	2.00
+416	main-captions	images	2015	1488	none	none	Dog running towards camera with a ball in its mouth.	The black and white dog swims with a brown object in its mouth.	2.00
+417	main-forum	deft-forum	2014	0078	none	none	"Jane" wants me to ask the helpful party guest to pay for it.	I can't believe she is asking YOU to ask the helpful party guest for money!	2.2
+418	main-forum	deft-forum	2014	0117	none	none	loose change started out as a work of fiction.	It finished as a work of fiction.	2.2
+419	main-forum	deft-forum	2014	0129	none	none	I hope this is nothing.	I hope everything is ok!	2
+420	main-news	MSRpar	2012test	0075	none	none	Aspen Technology's shares dropped 74 cents, or 23 percent, to close at $2.48 on the Nasdaq.	In afternoon trading, Aspen's shares were off 89 cents or more than 27 percent at $2.33 per share.	2.200
+421	main-news	MSRpar	2012train	0512	none	none	Another said its members would continue to call the more than 50 million phone numbers on the Federal Trade Commission's list.	Meantime, the Direct Marketing Association said its members should not call the nearly 51 million numbers on the list.	2.000
+422	main-news	MSRpar	2012train	0521	none	none	An injured woman co-worker also was hospitalized and was listed in good condition.	A woman was listed in good condition at Memorial's HealthPark campus, he said.	2.200
+423	main-news	MSRpar	2012train	0584	none	none	A key figure in former state Treasurer Paul Silvester's bribery scheme was accused Wednesday of changing his story about Silvester's alleged corrupt dealings with a Boston investment firm.	A key player in former state Treasurer Paul Silvester's corruption scheme testified on Tuesday about kickbacks and bribes Silvester traded for state business.	2.000
+424	main-news	headlines	2013	0073	none	none	U.S. and Turkey weigh no-fly zones for Syria	U.S. and Turkey Tighten Coordination on Syria	2.2
+425	main-news	headlines	2013	0415	none	none	Blitzbokke ousted by Fiji	Blitzbokke beaten by NZ	2
+426	main-news	headlines	2013	0686	none	none	Two killed in new Israeli strike on Gaza: medics	5 die in strikes on Gaza, militants barrage Israel	2
+427	main-news	headlines	2014	0062	none	none	Yemen suicide bombing kills soldiers	Female suicide bomber kills 16 at Russian station	2
+428	main-news	headlines	2014	0133	none	none	Obama to refocus on economy in State of the Union	Factbox: What to look for in Obama's State of the Union speech	2.2
+429	main-news	headlines	2014	0314	none	none	Syria opposition threatens to quit talks	Syria opposition agrees to talks	2
+430	main-news	headlines	2014	0376	none	none	UN voices alarm over Israeli strikes on Syria	Israeli official confirms second air strike at Syria	2.2
+431	main-news	headlines	2014	0535	none	none	7 killed in attacks in Iraq	27 killed in attacks across Iraq	2
+432	main-news	headlines	2014	0736	none	none	Singapore shares open lower on Friday	Singapore shares open higher on Thursday	2.2
+433	main-news	headlines	2015	0554	none	none	Earthquake of 6.3 magnitude strikes off Indonesia island	Earthquake of 6 magnitude strikes Thailand	2.00
+434	main-news	headlines	2015	0727	none	none	Arsenal v Stoke City ‚Äď live!	Tottenham v Manchester City ‚Äď live!	2.20
+435	main-news	headlines	2015	0960	none	none	Headlines in major Iranian newspapers on Dec 30	Headlines in major Iranian newspapers on July 6	2.20
+436	main-news	headlines	2016	0584	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	N. Korea Deports Elderly American	North Korea deports detained US war veteran	2
+437	main-news	headlines	2016	0789	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Russia's Putin claims authority to invade Ukraine	Kremlin: Putin yet to decide on using Russian troops in Ukraine	2
+438	main-news	headlines	2016	1047	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	The end of the Hong Kong protests?	UK 'concern' over Hong Kong protests	2
+439	main-captions	images	2015	1030	none	none	A boy is jumping into the water with a ball in his hand.	A little boy swimming underwater with a toy in his hand.	2.20
+440	main-captions	track5.en-en	2017	0110	none	none	Two men are playing a game of Scrabble together.	The two women are playing a game.	2.200000
+441	main-captions	track5.en-en	2017	0117	none	none	four people walk toward a tower	Two men walk toward a dome-shaped building.	2.000000
+442	main-forums	answers-forums	2015	0582	none	none	Properly executed weight training will increase, not decrease, your flexibility and mobility.	I've seen guys that are still very flexable while lifting weights.	2.20
+443	main-forums	answers-forums	2015	0791	none	none	Dominus, plural Domini, in ancient Rome, “master,” or “owner,” particularly of slaves.	A greek-speaking slave (δούλος, doulos) I think would call his master κύριος (translit: kurios; lord, master, sir; vocative form: κύριε).	2.20
+444	main-news	MSRpar	2012test	0658	none	none	Shares of LendingTree soared $5.99, or 40.1 percent, to $20.68 in afternoon trading on the Nasdaq Stock Market.	Shares of LendingTree rose $6.21, or 42 percent, to $20.90 after hitting $21.36 earlier.	2.200
+445	main-news	headlines	2013	0682	none	none	Romney, Obama clash on tax, economy in first debate	Obama and Romney take stage for first debate	2.2
+446	main-news	headlines	2014	0464	none	none	Singapore stocks end up 0.11 pct	Singapore stocks close 0.54 pct higher	2.2
+447	main-news	headlines	2014	0598	none	none	Nelson Mandela undergoes surgery	‘Nelson Mandela is recovering’	2.2
+448	main-news	headlines	2015	0502	none	none	Gunmen 'kill 10 tourists' in Kashmir	Gunmen kill four in Kenya church attack	2.20
+449	main-news	headlines	2016	0419	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Boy, 14, arrested for sex attacks around a university campus	Two teenagers arrested after string of sex attacks on Manchester University campus	2
+450	main-captions	MSRvid	2012test	0144	none	none	A woman is peeling a potato.	A man is slicing potato.	2.400
+451	main-captions	MSRvid	2012test	0154	none	none	A woman is slicing up some meat.	A woman is breading some meat.	2.250
+452	main-captions	MSRvid	2012test	0278	none	none	A girl is singing and playing a guitar.	A young man is singing while playing the guitar.	2.400
+453	main-captions	MSRvid	2012test	0466	none	none	The baby crawled through the doorway.	A baby is crawling across the floor.	2.400
+454	main-captions	MSRvid	2012test	0690	none	none	The girl flew her kite while she ran up a hill.	A girl loses her kite.	2.250
+455	main-captions	MSRvid	2012train	0337	none	none	A woman puts slabs of meat in a pan.	A man puts pieces of meat into a plastic bag.	2.400
+456	main-captions	images	2014	0441	none	none	A person is jumping a bicycle and performing a trick.	A person riding a dirt bike in the outdoors.	2.25
+457	main-captions	images	2014	0525	none	none	The brown train is sitting on the railroad tracks.	The white train is sitting on the tracks.	2.25
+458	main-captions	images	2015	0173	none	none	A man playing fetch with two brown dogs.	A woman plays with a brown dog.	2.33
+459	main-captions	images	2015	0188	none	none	A woman in a black shirt stands in front of bananas at a fruit stand.	a woman wearing black stands in front of a pickup truck.	2.40
+460	main-captions	images	2015	0229	none	none	A black dog jumps through the water.	A dog walks through the snow.	2.40
+461	main-captions	images	2015	0952	none	none	A boy doing a back flip into a swimming pool.	A boy wearing red and blue swim trunks jumping head first into a swimming pool.	2.40
+462	main-captions	images	2015	1136	none	none	A brown dog is running through green grass.	A brown dog is running though a river.	2.40
+463	main-forum	deft-forum	2014	0170	none	none	Why did that transaction take place.	Did the transaction take place?	2.4
+464	main-forum	deft-forum	2014	0171	none	none	There is no more egg cell post-fertilization.	There is no more sperm cell.	2.4
+465	main-forum	deft-forum	2014	0175	none	none	No Thatcherite can ever call themselves a libertarian.	Ergo it offends me when Thatcherites call themselves libertarian.	2.4
+466	main-forum	deft-forum	2014	0179	none	none	If so, alot of cops should take presciption drugs.	If so, alot of inventors, writers should take prescription drugs..	2.4
+467	main-forum	deft-forum	2014	0193	none	none	Capital gains, top rate:  percent.	Income tax, top rate:  percent.	2.4
+468	main-forum	deft-forum	2014	0196	none	none	If the universe has an explanation of its existence, that explanation is God.	Therefore, the universe has an explanation of its existence.	2.4
+469	main-forum	deft-forum	2014	0241	none	none	Regulation get the government into everything.	"Get the government into everything?"	2.4
+470	main-forum	deft-forum	2014	0371	none	none	I missed the point where he said that black people were going to riot.	Never, did I ever, did I say blacks were going to riot.	2.4
+471	main-forum	deft-forum	2014	0397	none	none	the problem isn't who has money.	the problem is who doesn't have money.	2.46666666666667
+472	main-news	MSRpar	2012test	0281	none	none	The Dow Jones industrial average <.DJI> added 28 points, or 0.27 percent, at 10,557, hitting its highest level in 21 months.	The Dow Jones industrial average <.DJI> rose 49 points, or 0.47 percent, to 10,578.	2.250
+473	main-news	MSRpar	2012test	0420	none	none	The Nasdaq fell about 1.3% for the month, snapping a seven-month winning streak.	The Nasdaq is down roughly 0.4 percent for the month, on track to snap a 7-month streak of gains.	2.400
+474	main-news	MSRpar	2012train	0283	none	none	He planned to stay all day until the river crested, which was forecast for late last night.	He and the other lawyers planned to stay until the river starts receding.	2.400
+475	main-news	MSRpar	2012train	0296	none	none	The Dow Jones industrial average <.DJI> was off 58.69 points, or 0.64 percent, at 9,137.86.	The Dow Jones industrial average .DJI fell 79.43 points, or 0.86 percent, to 9,117.12 on Friday.	2.400
+476	main-news	MSRpar	2012train	0319	none	none	Heather, 35, who lost a leg in a road accident, is thought to have steel plates fitted in her hips, which would make natural childbirth impossible.	Former model Lady McCartney lost a leg in a road accident in 1993 and is understood to have steel plates fitted in her hips which would make natural childbirth difficult.	2.400
+477	main-news	MSRpar	2012train	0364	none	none	No. 2 HP saw its Unix server sales dropped 3.6 percent to $1.36 billion.	HP fell to second place with server sales growing 0.4 percent to $2.9 billion.	2.333
+478	main-news	MSRpar	2012train	0367	none	none	"People are obviously inconvenienced," said Dr. Jim Young, Ontario's commissioner of public safety.	"We're being hyper-vigilant," said Dr. James Young, Ontario's commissioner of public safety.	2.250
+479	main-news	MSRpar	2012train	0444	none	none	Colgate shares closed Monday at $56.30 on the New York Stock Exchange.	Colgate shares were down 30 cents at $56 in morning trade on the New York Stock Exchange.	2.400
+480	main-news	headlines	2013	0100	none	none	Tsunami warning issued for southern Alaska	Tsunami warning after Canada quake	2.4
+481	main-news	headlines	2013	0454	none	none	9 dead, 11 hurt, 4 missing in Mont Blanc avalanche	6 dead, several missing in Mont Blanc avalanche	2.4
+482	main-news	headlines	2013	0705	none	none	Burma's reforms bring easing of U.S. sanctions	Burma activists say go slow on easing sanctions	2.4
+483	main-news	headlines	2014	0024	none	none	8 arrested after deadly Bangladesh building collapse	Four arrested as Bangladesh building toll rises to 352	2.4
+484	main-news	headlines	2014	0579	none	none	Syria’s chemical weapons could end up at sea	US to destroy Syria chemical weapon stockpile at sea	2.4
+485	main-news	headlines	2015	0081	none	none	U.S. resumes search for missing British sailors after public	US Coast Guard suspends search for missing British sailors	2.40
+486	main-news	headlines	2015	0086	none	none	Egypt forces set to block access to Morsi protest camps	Egyptian forces move to clear pro-Morsi protest camps	2.40
+487	main-news	headlines	2015	0729	none	none	Business news and markets: as it happened, April 17, 2013	Business news and markets: as it happened, June 20, 2013	2.40
+488	main-news	headlines	2015	0878	none	none	Pakistan's Musharraf Under Arrest in Bhutto Assassination	Pakistan's Musharraf arrives at court for first time	2.40
+489	main-news	headlines	2015	0931	none	none	US makes case for action against Syria	Saudi Urges U.N. Action against Israel Strikes on Syria	2.40
+490	main-news	headlines	2015	1055	none	none	Morsi's supporters reject plan	Morsi supporters march in Egypt	2.40
+491	main-news	headlines	2015	1219	none	none	Israel sanctions Palestinians in new blow to peace talks	Israel to release Palestinian prisoners as part of deal to revive peace talks	2.40
+492	main-news	headlines	2015	1334	none	none	Iran rejects claim on chlorine bombs	Iran rejects MKO claim on nuclear site	2.40
+493	main-captions	MSRvid	2012test	0060	none	none	The girl sang into a microphone.	The lady sang into the microphone.	2.400
+494	main-captions	images	2014	0159	none	none	Two airplanes in the sky.	A plane in the sky.	2.4
+495	main-captions	images	2015	1452	none	none	A golden colored dog jumps around in the grass while holding a stick in its mouth.	A black dog is running through the grass carrying something red in its mouth.	2.40
+496	main-captions	track5.en-en	2017	0039	none	none	a group of navy seals are singing	A group of military personnel are playing in a brass quintet.	2.400000
+497	main-forums	answers-forums	2015	1100	none	none	It is possible, but it will have to be a docile female betta and a bigish tank.	We tried putting a male betta in a community tank once.	2.40
+498	main-news	MSRpar	2012test	0058	none	none	Shares of Coke closed New York Stock Exchange trading Thursday at $44.01.	In morning trading on the New York Stock Exchange, Coca-Cola shares were down 34 cents at $43.67.	2.400
+499	main-news	headlines	2015	1177	none	none	4 killed, 6 injured in attacks in Iraq	43 killed, 86 wounded in attacks in Iraq	2.40
+500	main-captions	MSRvid	2012test	0141	none	none	A man is riding on a horse.	A girl is riding a horse.	2.600
+501	main-captions	MSRvid	2012test	0262	none	none	The cats are playing with each other.	Two cats are fighting each other.	2.600
+502	main-captions	MSRvid	2012test	0675	none	none	A cat rapidly swats a kid in the head.	A cat and a boy play together.	2.600
+503	main-captions	MSRvid	2012train	0080	none	none	A woman is dancing.	The man is dancing.	2.600
+504	main-captions	MSRvid	2012train	0090	none	none	A girl is eating a cupcake.	A woman is eating a cupcake.	2.600
+505	main-captions	MSRvid	2012train	0155	none	none	A boy and a girl is dancing in the rain.	A man and woman is dancing in the rain.	2.600
+506	main-captions	MSRvid	2012train	0247	none	none	The men are performing on stage.	The comedic mimes performed on stage.	2.600
+507	main-captions	MSRvid	2012train	0387	none	none	A lion is walking in an enclosed area.	A lion is walking around.	2.600
+508	main-captions	MSRvid	2012train	0627	none	none	A slow loris bites a persons fingers.	A small animal is chewing on a finger.	2.500
+509	main-captions	MSRvid	2012train	0652	none	none	The women are sitiing down.	Two women are sitting close to each other and talking.	2.600
+510	main-captions	MSRvid	2012train	0691	none	none	A person breaks an egg into a small bowl.	A man cracks an egg.	2.600
+511	main-captions	images	2014	0002	none	none	A small white cat with glowing eyes standing underneath a chair.	A white cat stands on the floor.	2.6
+512	main-captions	images	2014	0493	none	none	A bay foal is walking next to its mother in a grassy field.	Close-up of young horse walking next to a larger horse.	2.6
+513	main-captions	images	2015	0077	none	none	Three dogs playing in the snow.	Three dogs are playing in the water.	2.60
+514	main-captions	images	2015	1207	none	none	Several people are sitting around a fire at night.	A group of people are standing and sitting around on the ground at night.	2.60
+515	main-captions	images	2015	1342	none	none	A large gray dog is playing in the deep snow.	Four dogs playing in the snow.	2.60
+516	main-forum	deft-forum	2014	0378	none	none	You might not like Obamas views, but he has them.	You might not like the positions he holds, but atleast he has them.	2.6
+517	main-forum	deft-forum	2014	0444	none	none	Last night Japanese forces attacked Hong Kong.	Last night Japanese forces attacked the Philippine Islands.	2.6
+518	main-news	MSRpar	2012test	0418	none	none	With the power back on, state workers headed back to their jobs Friday morning.	Pataki said if power was restored, state workers would be back on the job Friday morning.	2.600
+519	main-news	MSRpar	2012test	0659	none	none	The unions also staged a five-day strike in March that forced all but one of Yale's dining halls to close.	The unions also staged a five-day strike in March; strikes have preceded eight of the last 10 contracts.	2.600
+520	main-news	MSRpar	2012test	0664	none	none	Enron's 401(k) plan covered about 20,000 workers, retirees and beneficiaries.	Enron's stock comprised as much as 61% of the workers' 401(k) portfolios.	2.500
+521	main-news	MSRpar	2012train	0141	none	none	Yes, from today Flash memory purchased from AMD or Fujitsu will be branded Spansion.	Spansion Flash memory solutions are available worldwide from AMD and Fujitsu.	2.625
+522	main-news	MSRpar	2012train	0291	none	none	Its shares jumped to $54.50 in pre-open trading from $50.90 at Wednesday's close.	Shares jumped almost 7 percent in pre-open trading, rising to $18.26 from $17.05 at Tuesday's close.	2.500
+523	main-news	MSRpar	2012train	0427	none	none	According to law enforcement officials, the person arrested was a known sophisticated hacker.	According to law enforcement officials, the individual decrypted passwords on the server.	2.667
+524	main-news	MSRpar	2012train	0480	none	none	The findings are published in the November 6 edition of the journal Nature.	Both studies are published on Thursday in Nature, the British weekly science journal.	2.600
+525	main-news	deft-news	2014	0108	none	none	the russian foreign ministry stated that russia has not suspended dialogue.	russian officials stated that russia will not reconsider the suspension.	2.6
+526	main-news	deft-news	2014	0145	none	none	13 kurds from turkey were arrested near paris on suspicion of money-laundering for the kurdistan workers' party (pkk).	10 kurds are under investigation in france on suspicion of money-laundering for a terrorist organization known as kurdistan workers' party (pkk).	2.6
+527	main-news	deft-news	2014	0217	none	none	the plant will be constructed next to an existing plant and is projected to be operational in 7 years.	the plant will be constructed next to an existing plant also supplied by china and operational since 1999.	2.6
+528	main-news	headlines	2013	0204	none	none	Blast kills 11 in northwestern Pakistan	Bomb Kills 19 In Northwest Pakistan	2.6
+529	main-news	headlines	2013	0428	none	none	Nigeria: Nigerian troops swarm after 40 killed in student massacre	Nigeria police make arrests after college massacre	2.6
+530	main-news	headlines	2013	0539	none	none	President Mills must quit - Lecturer	President John Evans Atta-Mills Must Resign Now -NPP Germany	2.6
+531	main-news	headlines	2014	0125	none	none	Israeli envoys summoned over settlement plans	Britain summons Israeli envoy over settlements	2.5
+532	main-news	headlines	2014	0144	none	none	Gunmen kill nine people in northwest Pakistan	Militants kill 6 soldiers in northwest Pakistan	2.6
+533	main-news	headlines	2014	0316	none	none	Suicide bomber kills policeman in Pakistan	Suicide Bombers Kill 3 Soldiers in Pakistan	2.6
+534	main-news	headlines	2014	0327	none	none	Kerry to visit Jordan, Israel-Palestinian peace on agenda	Kerry postpones visit to Israel in one week	2.5
+535	main-news	headlines	2014	0352	none	none	Pakistani Taliban chief Hakimullah Mehsud killed in drone strike	Pakistan Taliban vows revenge, to repay Hakimullah's killing in bloodshed	2.6
+536	main-news	headlines	2015	1036	none	none	Ukrainian protesters back in streets for anti-government rally	Ukraine protesters topple Lenin statue in Kiev	2.60
+537	main-news	headlines	2015	1241	none	none	US, NATO Raise Doubts Russia Pulled Back from Ukraine Border	No Sign of Russian Withdrawal From Ukraine Border, Official Says	2.60
+538	main-news	headlines	2015	1308	none	none	India Ink: Image of the Day: April 21	India Ink: Image of the Day: May 2	2.60
+539	main-news	headlines	2015	1439	none	none	Gunmen kill 10 foreign tourists in northern Pakistan	Islamic militants kill 9 foreign tourists, 1 Pakistani	2.60
+540	main-captions	MSRvid	2012test	0541	none	none	The cook is kneading the flour.	A woman is kneading tortilla dough.	2.600
+541	main-captions	MSRvid	2012train	0066	none	none	A woman is slicing a potato.	A woman is slicing carrot.	2.500
+542	main-captions	images	2015	0050	none	none	A group of people standing in the street	A woman addressing a diverse group of people standing in the street.	2.60
+543	main-captions	images	2015	0372	none	none	A skateboarder on a city street.	A skateboarder in the air at a big, outdoor ramp.	2.60
+544	main-captions	track5.en-en	2017	0237	none	none	A pair of men walk along the beach.	Two men standing in the surf on a beach.	2.600000
+545	main-forums	answers-forums	2015	0254	none	none	When studying adult IQ, general adult norms are often used.	Basically, what you do is you compare each age group IQ to the standardization sample.	2.60
+546	main-forums	answers-forums	2015	0800	none	none	Yes, this is true and yes, in most cases indefinite articles indeed developed from numerals, as @MGN already said.	Indefinite articles developed from numerals, and the definite articles developed from demonstratives.	2.60
+547	main-forums	answers-forums	2015	1324	none	none	I have found there is no single best way to increase size.	There are a very wide variety of solutions for resizing and sharpening images for use on the web.	2.60
+548	main-news	MSRpar	2012test	0341	none	none	"They've been in the stores for over six weeks," says Carney.	The quarterlies usually stay in stores for between six to eight weeks," Carney added.	2.600
+549	main-news	headlines	2015	0466	none	none	One dead in US building collapse	Six killed in US building collapse	2.60
+550	main-captions	MSRvid	2012test	0442	none	none	A woman is cutting up a chicken.	A woman is slicing meat.	2.750
+551	main-captions	MSRvid	2012test	0589	none	none	Someone is pouring ingrediants into a pot.	A man puts vegetables into a pot.	2.800
+552	main-captions	MSRvid	2012test	0621	none	none	A man is holding up and talking about a gray You Tube T-shirt.	A man is showing a t shirt.	2.750
+553	main-captions	MSRvid	2012train	0031	none	none	A girl is singing on stage.	A man is singing on stage.	2.800
+554	main-captions	MSRvid	2012train	0554	none	none	A woman serving volleyballs over a net.	One woman hands volleyballs to another woman who serves them.	2.750
+555	main-captions	MSRvid	2012train	0714	none	none	The doctor was helping the patient.	Doctors are trying to revive a man.	2.800
+556	main-captions	images	2014	0157	none	none	Four people are rowing a boat near the shore.	four people are on a boat on green water.	2.8
+557	main-captions	images	2014	0335	none	none	A race horse galloping without a rider.	A horse galloping while wearing the number 4.	2.8
+558	main-captions	images	2014	0454	none	none	A man riding a small bicycle.	A man is doing a wheelie on a bike.	2.8
+559	main-captions	images	2015	0381	none	none	The brown and black dog sprints across the snow.	A black dog is running quickly along the ground.	2.80
+560	main-captions	images	2015	0674	none	none	A dog running across the sand	A dog running through the water.	2.80
+561	main-captions	images	2015	0903	none	none	Three dogs are running in a field.	Two dogs are running in a grassy field	2.80
+562	main-captions	images	2015	1249	none	none	Three sheep graze on the grassy field with a dog walking behind them.	a small group of goats in the grass with a black and white dog in the backgroud.	2.80
+563	main-forum	deft-forum	2014	0336	none	none	Put a Little Love in your Heart We are all vessels filled with many wonders.	Landon And So This is Christmas We are all vessels filled with many wonders.	2.8
+564	main-forum	deft-forum	2014	0393	none	none	Capital gains, top rate:  percent.	- Income, top rate:  percent.	2.8
+565	main-forum	deft-forum	2014	0394	none	none	Time of the Season by the Zombies We are all vessels filled with many wonders.	The theme song to Cheers: We are all vessels filled with many wonders.	2.8
+566	main-news	MSRpar	2012test	0121	none	none	Washington, however, said more was needed to prevent complaints being filed in the first place.	But the US insisted it wanted more done to prevent complaints being filed in the first place, preferably by repealing the entire law.	2.800
+567	main-news	MSRpar	2012test	0258	none	none	Some 14,000 customers were without power in the area, Oklahoma Gas and Electric said.	About 38,000 OGE Energy Corp. customers are without power, the company said on its Web site.	2.750
+568	main-news	MSRpar	2012test	0446	none	none	Mr. Geoghan had been living in a protective custody unit since being transferred to the prison on April 3.	He had been in protective custody since being transferred to Souza-Baranowski in April, officials said.	2.800
+569	main-news	MSRpar	2012test	0530	none	none	Two years later, the insurance coverage would begin.	Under the agreement, Medicare coverage for drug benefits would begin in 2006.	2.800
+570	main-news	MSRpar	2012test	0576	none	none	The flamboyant entrepreneur flagged the plan after a meeting in London with Australian Tourism Minister Joe Hockey.	Sir Richard was speaking after a meeting in London with Australian Tourism Minister Joe Hockey.	2.800
+571	main-news	MSRpar	2012test	0708	none	none	Similar bills passed the House twice but died in the Senate.	Two years ago, the House passed a similar version that floundered in the Senate.	2.750
+572	main-news	MSRpar	2012train	0002	none	none	The fines are part of failed Republican efforts to force or entice the Democrats to return.	Perry said he backs the Senate's efforts, including the fines, to force the Democrats to return.	2.800
+573	main-news	MSRpar	2012train	0085	none	none	Linda Saunders pleaded guilty in federal court to six charges, including extortion, money laundering and conspiracy.	Former Phipps aides Linda Saunders and Bobby McLamb have both pleaded guilty to federal charges including extortion.	2.750
+574	main-news	MSRpar	2012train	0205	none	none	Wal-Mart estimates more than 100 million Americans visit their stores every week.	Each week 138 million shoppers visit Wal-Mart's 4,750 stores.	2.800
+575	main-news	MSRpar	2012train	0212	none	none	Spokesmen for the FBI, CIA, Canadian Security Intelligence Service and Royal Canadian Mounted Police declined to comment on El Shukrijumah's stay in Canada.	The FBI, CIA, Canadian Security Intelligence Service and Royal Canadian Mounted Police declined to comment on the Washington Times report.	2.750
+576	main-news	MSRpar	2012train	0304	none	none	The report by the independent expert committee aims to dissipate any suspicion about the Hong Kong government's handling of the SARS crisis.	A long awaited report on the Hong Kong government's handling of the SARS outbreak has been released.	2.750
+577	main-news	MSRpar	2012train	0650	none	none	The volatile mix could drag the session beyond the four days allotted by Bush, said Senate President Jim King.	The Senate might support capping noneconomic damages beyond the $250,000 Gov. Jeb Bush proposes, said Senate President Jim King.	2.750
+578	main-news	deft-news	2014	0109	none	none	arms smugglers and drug cartels must be eliminated from southeast asia.	arms smugglers and drug cartels abet terrorists.	2.8
+579	main-news	deft-news	2014	0185	none	none	defense chiefs from estonia, latvia, lithuania, germany, italy, spain and slovakia will sign the agreement to provide staff and funding for the center.	defense chiefs from estonia, latvia, lithuania, germany, italy, spain and slovakia signed the agreement.	2.8
+580	main-news	headlines	2013	0378	none	none	Hezbollah's Nasrallah warns US over anti-Islam film	Hezbollah calls for more anti-Islam film protests	2.8
+581	main-news	headlines	2014	0162	none	none	Palestinians 'hit' by Israeli fire in Gaza	Two Palestinians Killed in an Israeli Air Strike on Gaza	2.8
+582	main-news	headlines	2014	0186	none	none	ABVP protesters clash with police at Jantar Mantar, throw stones	Protesters clash with police at Jantar Mantar, 5 people detained	2.8
+583	main-news	headlines	2014	0192	none	none	Up to 21, mostly foreigners, killed in Kabul suicide attack	Briton among dead in Kabul suicide attack	2.8
+584	main-news	headlines	2014	0204	none	none	35 militants killed in Afghan raids: official	12 militants killed in Afghan raids: ministry	2.8
+585	main-news	headlines	2014	0389	none	none	5 people buried in Colorado avalanche	'5 snowboarders killed in Colorado avalanche'	2.8
+586	main-news	headlines	2014	0449	none	none	Indonesia: Schoolchildren among 14 killed by Indonesia volcano eruption	Indonesia: Six dead in Indonesian volcanic eruption	2.8
+587	main-news	headlines	2014	0490	none	none	Houston Texans head coach Gary Kubiak hospitalized after collapsing at game	Texans coach Gary Kubiak in stable condition after collapse	2.8
+588	main-news	headlines	2014	0716	none	none	Israel agrees to release Palestinian prisoners	Israel releases 26 more Palestinian prisoners	2.8
+589	main-news	headlines	2014	0726	none	none	India Braces for Massive Cyclone	India issues red alert for cyclone Phailin	2.8
+590	main-news	headlines	2015	0340	none	none	Israeli teens missing in West Bank	Israel finds bodies of three missing teens in West Bank	2.80
+591	main-news	headlines	2015	0427	none	none	More Deaths Expected in Canada Oil Train Explosion	Five dead in Canada train crash	2.80
+592	main-news	headlines	2015	0898	none	none	Hot-Air Balloon Catches Fire in Virginia	Hot Air Balloon 'Catches Fire And Crashes'	2.80
+593	main-captions	MSRvid	2012test	0506	none	none	A man is pressing microwave buttons.	A man turns on the microwave.	2.750
+594	main-forums	answers-forums	2015	0407	none	none	I'd suggest you look to the constructions of the native language(s) of your students.	As bikeboy389 said, you can learn a lot by looking at students' native languages.	2.80
+595	main-forums	answers-forums	2015	1102	none	none	Turtles love eating goldfish and lots of things that fit into their mouths.	First, the turtles are eating the fish because fish are food, not friends.	2.80
+596	main-forums	answers-forums	2015	1761	none	none	At the highest level, a pace setter helps ensure they meet their game plan for the race exactly.	From personal experience I found that a pace setter to be incredibly helpful.	2.80
+597	main-news	MSRpar	2012train	0494	none	none	The bank's shares fell 45 cents in trading yesterday to $91.51 per share.	Shares of M&T, which is based in Buffalo, fell 41 cents, to $91.51.	2.750
+598	main-news	headlines	2013	0566	none	none	Romney rocked by secret video	Romney taped at secret donor talk	2.8
+599	main-news	headlines	2014	0253	none	none	US confirms al-Qaeda leader has been captured	US captures al-Qaeda leader but fails in Somalia attack	2.8
+600	main-captions	MSRvid	2012test	0223	none	none	A man is cutting a fish.	A man guts a fish.	3.000
+601	main-captions	MSRvid	2012test	0254	none	none	Two baby pandas are playing.	Two pandas are laying together.	3.000
+602	main-captions	MSRvid	2012test	0319	none	none	A boy is playing a key-board.	A boy is playing the piano.	3.200
+603	main-captions	MSRvid	2012test	0609	none	none	A woman beats two eggs in a bowl.	A person is mixing ingredients in a bowl.	3.000
+604	main-captions	MSRvid	2012test	0678	none	none	The couple danced in the church.	A couple slow dances.	3.200
+605	main-captions	MSRvid	2012train	0166	none	none	A boy is playing the piano.	A man is playing a piano.	3.000
+606	main-captions	MSRvid	2012train	0197	none	none	Someone is slicing a tomato.	Someone is slicing fruit.	3.200
+607	main-captions	MSRvid	2012train	0360	none	none	A man and woman are walking.	A man and woman walking hold each other.	3.200
+608	main-captions	MSRvid	2012train	0504	none	none	A clown is singing and people are dancing.	A clown is singing.	3.000
+609	main-captions	MSRvid	2012train	0671	none	none	A boy is playing with a toy.	A boy plays a handheld game.	3.000
+610	main-captions	images	2014	0059	none	none	A smiling woman with a beer sitting outside with another smiling woman.	Two women sitting outside laughing.	3.2
+611	main-captions	images	2014	0199	none	none	A yellow and blue airplane is flying in the sky.	The white airplane is flying in the blue sky.	3.2
+612	main-captions	images	2014	0419	none	none	A dining table with candles, wine, and a teapot.	A wooden table is set with candles, wine, and a purple plastic bowl.	3
+613	main-news	MSRpar	2012test	0122	none	none	After 26 hours of surgery and a year of anticipation, the boys were separated Sunday at Children's Medical Center of Dallas.	Two-year-old Egyptian twin boys, born with their heads conjoined, have been separated after 26 hours of surgery at the Children's Medical Centre in Dallas.	3.200
+614	main-news	MSRpar	2012test	0317	none	none	Gyorgy Heizler, head of the local disaster unit, said the coach was carrying 38 passengers.	The head of the local disaster unit, Gyorgy Heizler, said the coach driver had failed to heed red stop lights.	3.000
+615	main-news	MSRpar	2012test	0447	none	none	The 2000 Democratic platform supported "the full inclusion of gay and lesbian families in the life of the nation."	The Democrat's 2000 platform didn't explicitly support gay marriages but backed "the full inclusion of gay and lesbian families into the life of the nation."	3.200
+616	main-news	MSRpar	2012test	0457	none	none	Miodrag Zivkovic, of the Liberal Alliance of Montenegro, won 31 percent of the vote, while the independent Dragan Hajdukovic got 4 percent.	A pro-independence radical, Miodrag Zivkovic, of the Liberal Alliance, came in second with 31 percent of the vote.	3.000
+617	main-news	MSRpar	2012test	0485	none	none	The state wants to kill the wolves in approximately a 1,700-square-mile area near the village of McGrath.	The state wants to kill the wolves in approximately a 1,700-square-mile area near McGrath to establish a moose nursery of sorts.	3.200
+618	main-news	MSRpar	2012test	0507	none	none	The redesigned Finder also features search, coloured labels for customized organization of documents and projects and dynamic browsing of the network for Mac, Windows and UNIX file servers.	It also supports coloured labels to better organise documents, and dynamic browsing of the network for Mac, Windows and Unix file servers.	3.000
+619	main-news	MSRpar	2012test	0577	none	none	Government bonds sold off sharply after Greenspan told Congress on Tuesday that the U.S. economy "could very well be embarking on a period of extended growth".	Greenspan told Congress on Tuesday the U.S. economy "could very well be embarking on a period of sustained growth".	3.200
+620	main-news	MSRpar	2012train	0112	none	none	Joining Boston on Monday were the Massachusetts communities of Watertown, Saugus and Framingham.	Along with Boston, Watertown, Saugus and Framingham also are going smoke-free Monday.	3.000
+621	main-news	MSRpar	2012train	0398	none	none	Officials are trying to retrieve the bodies from the water," police officer J.D. Tambe told Reuters, adding 26 of the dead were women.	Officials are trying to retrieve the bodies from the water," police official J.D. Tambe told Reuters.	3.000
+622	main-news	MSRpar	2012train	0636	none	none	The broad Standard & Poor's 500 Index <.SPX> advanced 11 points, or 1.25 percent, to 931.	The Standard & Poor's 500 Index gained 10.89, or 1.2 percent, to 931.12 as of 12:01 p.m. in New York.	3.000
+623	main-news	deft-news	2014	0024	none	none	russian officials have called for a conference on the conventional forces in europe treaty to discuss ratification of the amended treaty.	antonov spoke the day before a conference on the conventional forces in europe treaty.	3.2
+624	main-news	deft-news	2014	0130	none	none	india accuses islamabad of funding and training guerrillas.	india accuses pakistan of funding and training the cross-border guerrillas.	3
+625	main-news	deft-news	2014	0264	none	none	the attacks are believed to have come from russian administration ip addresses in response to the relocation of a soviet statue in estonia.	the attacks occurred after a dispute between the governments of russia and estonia over the relocation of a soviet war memorial.	3
+626	main-news	deft-news	2014	0291	none	none	capital offenses in iran include murder, rape, armed robbery, apostasy, blasphemy, serious drug trafficking, repeated sodomy, adultery, prostitution, treason and espionage.	capital offenses in iran include murder, rape, armed robbery, serious drug trafficking and adultery.	3
+627	main-news	headlines	2013	0035	none	none	Freddie Starr Arrested In Savile Abuse Probe	Third man arrested in Savile sex abuse probe	3.2
+628	main-news	headlines	2013	0208	none	none	Russian TV reports foiled attempt on Putin	Russia, Ukraine foiled plot to kill Putin, report says	3.2
+629	main-news	headlines	2013	0687	none	none	Navy jet crashes into Virginia buildings, injuring six	Navy jet crashes into Virginia apartments,9 hurt	3.2
+630	main-news	headlines	2013	0731	none	none	New York Stock Exchange to reopen Wednesday	DealBook: Stock Exchanges Prepare to Open	3
+631	main-news	headlines	2014	0224	none	none	US warns Syria on chemical weapons	U.S. concerns grow about Syria's chemical weapons	3.2
+632	main-news	headlines	2014	0748	none	none	China yuan strengthens to 6.2689 against USD	China yuan strengthens to new high against USD	3
+633	main-news	headlines	2015	0245	none	none	China yuan strengthens to 6.1184 against USD Tuesday	China Yuan Strengthens to 6.168 against USD Monday	3.20
+634	main-news	headlines	2015	0277	none	none	US government shutdown begins - live updates	Government Shutdown Begins Over Health Care Feud	3.20
+635	main-news	headlines	2015	0510	none	none	Suicide bomber kills 20 in Iraq	Suicide bomber attacks primary school in Iraq, kills 15	3.00
+636	main-news	headlines	2015	0515	none	none	6 Killed by Hot Lava as Indonesia Volcano Erupts	Five dead in Indonesian eruption	3.00
+637	main-news	headlines	2015	0541	none	none	Boston bomb suspect charged; religious motive seen	Boston bombing suspect charged in hospital bed	3.00
+638	main-news	headlines	2015	0990	none	none	Missing plane search turns to Vietnamese islands	Missing Malaysia Airlines plane 'crashes off Vietnam'	3.00
+639	main-news	headlines	2015	1285	none	none	Man held after teen shot in Belfast	Man, 40, arrested after shooting	3.20
+640	main-news	headlines	2016	0163	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Philippines typhoon death toll feared to hit 7,000	Philippines typhoon death toll rises above 5,000	3
+641	main-news	headlines	2016	0574	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Sony to sell PC unit and cut jobs	Sony to axe PC unit in major business overhaul	3
+642	main-news	headlines	2016	0668	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Police surround protesters in Belfast ahead of G8	Peaceful anti-G8 protest held in Belfast	3
+643	main-captions	images	2015	0878	none	none	A brown and white dog with a pink Frisbee in it's mouth is humping over a man's back.	a dog with a Frisbee in its mouth, jumps over a man.	3.00
+644	main-forums	answers-forums	2015	0323	none	none	I've never adjusted the length of time based on number of eggs.	I don't boil eggs enough to keep a feel for the timing...	3.00
+645	main-news	MSRpar	2012test	0066	none	none	Lord Falconer hailed the changes as "a new beginning as far as the courts, Crown Prosecution Service and police are concerned".	"It's a new beginning as far as the courts, Crown Prosecution Service and police are concerned, making the criminal justice system work better."	3.000
+646	main-news	MSRpar	2012test	0512	none	none	Artists are worried the plan would harm those who need help most - performers who have a difficult time lining up shows.	The artists say the plan will harm French culture and punish those who need help most - performers who have a hard time lining up work.	3.000
+647	main-news	MSRpar	2012train	0140	none	none	As part of a restructuring Peregrine sold its Remedy help desk software unit last year to BMC Software Inc.	Peregrine sold its Remedy business unit to BMC Software in November for $355 million.	3.000
+648	main-news	MSRpar	2012train	0303	none	none	Nine seconds later, it broke the sound barrier and continued its steep powered ascent.	Nine seconds later, SpaceShipOne broke the sound barrier, the company said.	3.000
+649	main-news	headlines	2013	0545	none	none	China yuan weakens to 6.3282 against USD Monday	China's yuan weakens against USD for third day	3.2
+650	main-captions	MSRvid	2012test	0492	none	none	An airplane is flying in the air.	A South African Airways plane is flying in a blue sky.	3.400
+651	main-captions	MSRvid	2012test	0692	none	none	A small monkey walks through water.	A monkey is wading across a marsh.	3.400
+652	main-captions	MSRvid	2012train	0198	none	none	A woman is dancing in a cage.	A woman is dancing.	3.250
+653	main-captions	MSRvid	2012train	0529	none	none	The bird ate the food in the tree from a bowl.	A bird is eating from a bowl.	3.250
+654	main-captions	images	2014	0114	none	none	A white animal running through snow covered woods.	A white dog runs through a snow covered wood.	3.4
+655	main-captions	images	2014	0311	none	none	The two dogs blend in with the stuff animals.	Two dogs sit on a couch with many stuffed animals.	3.4
+656	main-captions	images	2014	0401	none	none	A horse rider is riding a white horse.	A woman leading a white horse.	3.4
+657	main-captions	images	2014	0697	none	none	A bald man touches the nose of a black horse on the other side of a fence.	A bald man with a beard pets the nose of a black and white horse at the fence.	3.4
+658	main-captions	images	2015	0235	none	none	A man sits with fishing poles near a body of water.	A man sits on a rock next to a folding deck chair and a fishing pole.	3.40
+659	main-captions	images	2015	0738	none	none	A white and brown dog playing with a black toy.	A white and brown dog is playing tug-o-war.	3.40
+660	main-captions	images	2015	0756	none	none	A brown and white dog with a pink collar is barking at a brown dog with a blue collar in the snow.	The dog with the red collar is bearing it's teeth at the dog with the blue collar.	3.40
+661	main-captions	images	2015	1139	none	none	A small white dog and large brown dog play on the grass.	A small light tan dog is running past a large brown dog standing in the grass.	3.40
+662	main-captions	images	2015	1223	none	none	A group of men playing brass instruments.	A group of guys play instruments outside.	3.40
+663	main-captions	images	2015	1261	none	none	The tan and white dog is running in the field.	The brown and white dogs run through the field.	3.40
+664	main-forum	deft-forum	2014	0097	none	none	I have  years of "Neener Neener" rights Usually I get pretty decent care.	I have  years of "Neener Neener" rights they are crack ups.	3.4
+665	main-news	MSRpar	2012test	0117	none	none	Earlier on Monday, Grant Thornton SpA repeated previous statements that it was "a victim of fraudulent action".	Grant Thornton claims that it too was the “victim” of a fraud.	3.400
+666	main-news	MSRpar	2012test	0380	none	none	Among three major candidates, Schwarzenegger is wining the battle for independents and crossover voters.	Schwarzenegger picks up more independents and crossover voters than Bustamante.	3.400
+667	main-news	MSRpar	2012test	0570	none	none	Luzerne County District Attorney David Lupas told a news conference Monday that authorities were ``continuing to make significant progress'' in the case.	No charges have been filed in those deaths, but Luzerne County District Attorney David Lupas said authorities were "continuing to make significant progress" in the case.	3.400
+668	main-news	MSRpar	2012test	0709	none	none	The show's closure affected third-quarter earnings per share by a penny.	The company said this impacted earnings by a penny a share.	3.250
+669	main-news	MSRpar	2012test	0729	none	none	Toronto yesterday had 64 probable cases of SARS and nine suspect cases.	As of Wednesday, there were 65 probable SARS cases in the Toronto region.	3.250
+670	main-news	MSRpar	2012train	0093	none	none	Fighting erupted after four North Korean journalists confronted a dozen South Korean activists protesting human rights abuses in the North outside the main media centre.	Trouble flared when at least four North Korean reporters rushed from the Taegu media centre to confront a dozen activists protesting against human rights abuses in the North.	3.400
+671	main-news	MSRpar	2012train	0396	none	none	Officers threw him to the ground and handcuffed him, and Reyna dropped a knee into his back, according to testimony.	That's when officers threw him to the ground and handcuffed him, according to testimony.	3.250
+672	main-news	MSRpar	2012train	0400	none	none	"This is an easy case in my view and wholly without merit, both factually and legally."	"This case is wholly without merit, both factually and legally," Judge Denny Chin scoffed.	3.250
+673	main-news	MSRpar	2012train	0430	none	none	It will also help reform the Royal Solomon Islands Police, strengthen the courts and prisons system and protect key institutions such as the Finance Ministry from intimidation.	The intervention force will confiscate weapons, reform the police, strengthen the courts and prison system and protect key institutions such as the Finance Ministry.	3.444
+674	main-news	MSRpar	2012train	0742	none	none	The defense cannot appeal Roush's ruling until after the trial.	Defense lawyers cannot appeal the ruling until after trial, in the appellate courts.	3.400
+675	main-news	deft-news	2014	0092	none	none	withdrawal from the treaty would allow russia to bolster forces near russian borders.	withdrawal from the conventional forces in europe treaty would allow russia to bolster forces near russian borders.	3.4
+676	main-news	deft-news	2014	0097	none	none	the number of executions increased in iran last year amid a campaign that is aimed at improving security in society.	the number of executions increased dramatically in 2007 amid a campaign which iranian authorities state is aimed at improving security in society.	3.4
+677	main-news	headlines	2013	0092	none	none	Hezbollah confirms it sent drone downed over Israel	Hezbollah says it sent drone over Israel	3.4
+678	main-news	headlines	2013	0382	none	none	Obama urges decisive action on Europe debt crisis	Obama urges Europe to act quickly on crisis	3.4
+679	main-news	headlines	2013	0434	none	none	Spanish bailout dilemma gets more acute	Spanish dilemma gets more acute	3.4
+680	main-news	headlines	2013	0657	none	none	Maldives president quits after police mutiny, protests	Maldives president quits after weeks of protest	3.4
+681	main-news	headlines	2014	0015	none	none	Gunmen abduct seven foreign workers in Nigeria	Seven foreign workers kidnapped in Nigeria	3.4
+682	main-news	headlines	2014	0343	none	none	Asian markets gain on upbeat US economic data	Asian markets lifted by positive US, China data	3.4
+683	main-news	headlines	2014	0495	none	none	Up to 50 dead in Spanish train crash	Over 70 dead in Spanish high-speed train crash	3.4
+684	main-news	headlines	2014	0564	none	none	2 Turkish unions call for strike on Monday in protest over police violence	Turkey unrest: Unions call for strike over police crackdown	3.4
+685	main-news	headlines	2014	0565	none	none	[Ticker] Fitch upgrades Greek credit rating	Moody's upgrades Greek credit rating	3.4
+686	main-news	headlines	2015	0132	none	none	‚ÄėGlee‚Äô star Cory Monteith found dead in hotel room	Cory Monteith found dead: Canadian ‚ÄėGlee‚Äô star was 31	3.40
+687	main-news	headlines	2015	0292	none	none	N Korea test-fires 30 short-range missiles	N. Korea fires short-range missiles	3.40
+688	main-news	headlines	2015	0341	none	none	President mourns death of Mandela	World mourns passing of Mandela	3.40
+689	main-news	headlines	2015	1104	none	none	Four civilians, three NATO soldiers killed in Afghanistan	Three NATO soldiers killed in Afghanistan	3.40
+690	main-captions	MSRvid	2012train	0738	none	none	Someone drew on Washington's face on the dollar.	A person draws on a dollar bill.	3.400
+691	main-captions	images	2014	0699	none	none	A grey house with a red door.	House with a red door.	3.4
+692	main-captions	images	2015	0294	none	none	The white and brown dog is running quickly through the grass.	The big white dog is running in the grass.	3.40
+693	main-forums	answers-forums	2015	0915	none	none	GPS (wikipedia) is based on orbiting satellites and so is accurate worldwide.	GPS systems can, and do, work everywhere you can get satellites.	3.40
+694	main-forums	answers-forums	2015	1145	none	none	Try switching to rats; weanling rats if you need something smaller.	As mentioned in previous answers, rats and gerbils can be offered instead of mice or in a rotation with mice.	3.40
+695	main-news	MSRpar	2012test	0223	none	none	Deaths in rollover crashes accounted for 82 percent of the number of traffic deaths in 2002, the agency says.	Fatalities in rollover crashes accounted for 82 percent of the increase in 2002, NHTSA said.	3.250
+696	main-news	MSRpar	2012train	0314	none	none	He also said the academy will get its own internal report next week detailing the seriousness of the remaining problem.	The academy will get its own internal report next week and it will be made public, Rosa said.	3.333
+697	main-news	headlines	2013	0235	none	none	Suspicious object found in Tel Aviv not explosive device	Police treat suspicious object at Tel Aviv bus station	3.4
+698	main-news	headlines	2014	0553	none	none	Guatemala arrests software guru John McAfee	Held in Guatemala, software guru McAfee fights deportation	3.4
+699	main-news	headlines	2015	1426	none	none	Pakistanis vote in landmark election	Pakistan holds landmark election as 29 killed in attacks	3.40
+700	main-captions	MSRvid	2012test	0133	none	none	The man talked on the telephone.	The man is talking on the phone.	3.600
+701	main-captions	MSRvid	2012test	0237	none	none	A person is surfing a large wave.	A person is surfing.	3.600
+702	main-captions	MSRvid	2012test	0303	none	none	A man spreads butter on a big piece of bread.	A man is smearing butter on a slice of garlic bread.	3.500
+703	main-captions	MSRvid	2012test	0449	none	none	A woman mixes a beauty treatment in a glass.	A woman is mixing a cream in a glass with a spoon.	3.600
+704	main-captions	MSRvid	2012train	0017	none	none	A boy is playing a guitar.	A kid is playing a guitar.	3.600
+705	main-captions	MSRvid	2012train	0064	none	none	A man is cutting an onion.	A man is cutting a plantain.	3.667
+706	main-captions	MSRvid	2012train	0201	none	none	The man is playing the guitar.	The man played his guitar.	3.667
+707	main-captions	MSRvid	2012train	0284	none	none	A person is walking down a stone path.	A man is walking down a sidewalk.	3.500
+708	main-captions	MSRvid	2012train	0546	none	none	A dog is pawing at a fly in the carpet before it.	The dog played with a bug on the carpet.	3.600
+709	main-captions	images	2014	0075	none	none	This is a rear view of a Chevrolet sports car.	The rear view of a red Chevrolet concept car.	3.6
+710	main-captions	images	2014	0655	none	none	A bird is flapping its wings in the water.	A black swan flapping its wings on the water.	3.6
+711	main-forum	deft-forum	2014	0098	none	none	Dutchy Has anyone heard from Dutchy?	@NickFun, Has anyone heard from Dutchy?	3.6
+712	main-forum	deft-forum	2014	0257	none	none	My best, Kutte My ex-fiance wouldn't use the VA or Navy doctor's.	Jay My ex-fiance wouldn't use the VA or Navy doctor's.	3.6
+713	main-news	MSRpar	2012test	0026	none	none	She countersued for $125 million, saying Gruner & Jahr broke its contract with her by cutting her out of key editorial decisions.	She countersued for $125 million, saying G+J broke its contract with her by cutting her out of key editorial decisions and manipulated the magazine's financial figures.	3.500
+714	main-news	MSRpar	2012test	0077	none	none	In addition, it offered the United States and Israel a way to work around Mr. Arafat.	When the prime minister's position was established in the spring, it offered the United States and Israel a way to work around Arafat.	3.600
+715	main-news	MSRpar	2012test	0427	none	none	She said Jane Doe's lawyers asked Verizon to withhold her name because she was planning on challenging the subpoena.	Jane Doe, deciding to fight the subpoena, asked Verizon to withhold her name.	3.600
+716	main-news	MSRpar	2012test	0455	none	none	Shelia Chaney Wilson seemed agitated when she came to help prepare for Turner Monumental A.M.E. Church's upcoming 104th anniversary celebration, worshippers said.	Congregants of Turner Monumental AME Church said Shelia Chaney Wilson, 43, was agitated when she came to the church, in the Kirkwood neighborhood on the city's east side.	3.600
+717	main-news	MSRpar	2012test	0468	none	none	While the Ibrahims had one separation operation, Goodrich and Dr. David Staffenberg plan about three for the Aguirres, with several weeks between each.	Instead of one long operation to separate the twins, Goodrich and Dr. David Staffenberg plan about three, with several weeks between each.	3.600
+718	main-news	MSRpar	2012test	0657	none	none	Tisha Kresler, a spokeswoman for Global Crossing, declined to comment.	A Global Crossing representative had no immediate comment.	3.600
+719	main-news	MSRpar	2012train	0250	none	none	"Spending taxpayer dollars to create terrorism betting parlors is as wasteful as it is repugnant," they announced at a press conference yesterday.	"Spending taxpayer dollars to create terrorism betting parlors is as wasteful as it is repugnant," Wyden and Dorgan said Monday in a letter to the Pentagon.	3.500
+720	main-news	MSRpar	2012train	0260	none	none	This year the Audubon Society once again hosts its annual Christmas Bird Count.	It's the National Audubon Society's annual Christmas Bird Count, now in its 104th season.	3.500
+721	main-news	MSRpar	2012train	0440	none	none	Police using pepper spray arrested 12 people Monday night at a march and rally by about 400 activists protesting an annual training seminar of the Law Enforcement Intelligence Unit.	Police used pepper spray and rubber bullets to disperse a downtown march and rally last night by activists protesting an annual police intelligence-training seminar.	3.600
+722	main-news	MSRpar	2012train	0452	none	none	The index, which measures activity in the service sector, climbed to 50.7 last month from 47.9 in March.	The Arizona-based ISM reported Monday that its non-manufacturing index rose to 50.7 last month, from 47.9 in March.	3.500
+723	main-news	MSRpar	2012train	0585	none	none	"The mission of the CAPPS II system has been and always will be aviation security," said the administration, part of the Homeland Security Department.	"The mission of the CAPPS II system has been and always will be aviation security," they said.	3.600
+724	main-news	deft-news	2014	0031	none	none	alstom is in competition with japanese and german countries for the contract.	alstom is competing against japanese company shinkansen and german company ice for the contract.	3.6
+725	main-news	headlines	2013	0023	none	none	White House in damage control over Obama Supreme Court remarks	Fact check: Obama's Supreme Court remarks	3.6
+726	main-news	headlines	2013	0186	none	none	Bangladesh Muslims torch Buddhist shrines, police say	Muslims torch Buddhist temples	3.6
+727	main-news	headlines	2013	0262	none	none	Israeli, Palestinian negotiators quietly meet	Israeli, Palestinian negotiators meet in Jordan	3.6
+728	main-news	headlines	2013	0345	none	none	Russians rally support for Orthodox church over Pussy Riot controversy	Russian Orthodox Church rallies faithful after criticism	3.6
+729	main-news	headlines	2013	0581	none	none	Red Cross worker killed in Pakistan	British Red Cross doctor kidnapped in Pakistan found beheaded	3.6
+730	main-news	headlines	2013	0606	none	none	U.N. to take up Syria resolution	UN Assembly to Vote on Syria Resolution	3.6
+731	main-news	headlines	2013	0618	none	none	Four seriously injured in M23 motorway crash	Four injured in motorway crash	3.6
+732	main-news	headlines	2014	0198	none	none	Bangladesh Opposition Leader Sentenced to Death for War Crimes	Bangladesh: Fugitive Sentenced to Death by War Crimes Tribunal	3.6
+733	main-news	headlines	2014	0237	none	none	French-led troops close in on Timbuktu	French-led troops control access to Timbuktu	3.6
+734	main-news	headlines	2014	0338	none	none	Honduran ambassador to Colombia sacked after wild party	Honduras ambassador resigns after alleged embassy orgy	3.6
+735	main-news	headlines	2014	0426	none	none	Israel faces European backlash over settlement plan	Israel called to account over latest settlement plans by European countries	3.6
+736	main-news	headlines	2015	0630	none	none	North Korea says to restart nuclear reactor	North Korea Offers Talks: Complex May Re-Open	3.60
+737	main-news	headlines	2015	0697	none	none	Algerian president in France for medical tests	Algerian president in France for medical tests after minor stroke	3.60
+738	main-news	headlines	2015	0705	none	none	Fire kills 38 in Russian psychiatric institution	38 feared dead in Russian psychiatric hospital fire	3.60
+739	main-news	headlines	2015	1166	none	none	California governor declares drought emergency	California governor declares drought emergency as wildfires continue to burn	3.60
+740	main-captions	images	2014	0552	none	none	A black and white cat is sitting on a brown chair looking up.	Black and white cat sitting on wood chair looking up.	3.6
+741	main-captions	images	2014	0581	none	none	Domestic cat looking out window.	A white cat looking out of a window.	3.6
+742	main-captions	track5.en-en	2017	0159	none	none	A crowd of men wearing paper numbers on their shirts run in a race.	Several men running down a grass field wearing numbers on the front of their shirts.	3.600000
+743	main-forums	answers-forums	2015	1146	none	none	You should take this animal to a vet right away.	As covered in the other answers, your only option is to see a vet in order to have surgery done.	3.60
+744	main-forums	answers-forums	2015	1931	none	none	We just addressed this recently, and the excellent answer suggested was guillemets.	guillemets, as suggested by Lauren Ipsum, is a good option.	3.60
+745	main-news	MSRpar	2012test	0346	none	none	The world's largest software company said it recognized the difficulty the multiple patches posed for companies, and set out to make it easier for them to apply the updates.	The world's largest software company said it recognized the difficulty the multiple patches posed for companies trying to apply them.	3.500
+746	main-news	MSRpar	2012test	0348	none	none	Putin hailed Saudi Arabia as ``one of the most important Muslim nations.	Before the meeting, Putin said Russia regards Saudi Arabia as a key Muslim state.	3.500
+747	main-news	MSRpar	2012train	0021	none	none	In two weeks, he'll probably send out Peace Rules in the Preakness.	Frankel said Peace Rules will run in the Preakness Stakes on May 17.	3.600
+748	main-news	MSRpar	2012train	0076	none	none	U.S. District Judge Edmund Sargus ruled that the Akron-based company should have determined that changes at one of its plants would increase overall pollution emissions.	FirstEnergy Corp. should have determined that modernizing one of its plants would increase overall pollution emissions, U.S. District Judge Edmund Sargus ruled Thursday.	3.600
+749	main-news	headlines	2013	0155	none	none	South Africa train crash kills at least 19	South Africa train crash kills 26	3.6
+750	main-captions	MSRvid	2012test	0327	none	none	A man is playing the guitar.	A man plays an acoustic guitar.	3.750
+751	main-captions	MSRvid	2012test	0485	none	none	The boy is stuck in the door of the doghouse.	A child is stuck in a dog house.	3.750
+752	main-captions	MSRvid	2012test	0553	none	none	An old woman is shaking hand with a man.	A man and a woman shake hands.	3.750
+753	main-captions	MSRvid	2012test	0616	none	none	Soccer players are kicking a soccer ball into the goal.	A soccer player scores a goal.	3.800
+754	main-captions	MSRvid	2012train	0009	none	none	A small boy is playing with a dog.	A baby is playing with a dog.	3.750
+755	main-captions	MSRvid	2012train	0456	none	none	A woman is adding spices on a meat.	A woman adds ingredients to beef.	3.750
+756	main-captions	MSRvid	2012train	0458	none	none	A cook seasons some dough.	A man is seasoning some dough in a pan.	3.750
+757	main-captions	MSRvid	2012train	0475	none	none	A cat opens a drawer and climbs inside.	A big cat opens a plastic drawer with his paws and then hops inside.	3.750
+758	main-captions	images	2014	0246	none	none	Cows grazing in a snow covered field.	Five cows grazing in a snow covered field.	3.8
+759	main-captions	images	2014	0310	none	none	a jockey riding a horse.	A jockey riding a horse in a pen.	3.8
+760	main-captions	images	2014	0450	none	none	Black and white cow standing in grassy field.	A black and white horned cow standing in a field.	3.8
+761	main-captions	images	2014	0607	none	none	View of a living room with a dining room in the background.	A living room with large sofas and a dining table in the background.	3.8
+762	main-captions	images	2015	0388	none	none	A small dog runs through an obstacle course.	A small dog jumping over an obstacle.	3.80
+763	main-news	MSRpar	2012test	0229	none	none	The judge also refused to postpone the trial date of Sept. 29.	Obus also denied a defense motion to postpone the Sept. 29 trial date.	3.929
+764	main-news	MSRpar	2012test	0266	none	none	But the justices ruled that the police supervisor who repeatedly questioned Martinez did not violate his Fifth Amendment rights in doing so.	But the justices ruled that the police supervisor who repeatedly questioned Mr Martinez as he screamed in pain did not violate his Fifth Amendment rights.	3.750
+765	main-news	MSRpar	2012test	0660	none	none	Gov. Rick Perry has said that while he opposes gambling expansion, he would be reluctant to veto continuation of the Lottery Commission.	Gov. Rick Perry opposes expansion of gambling but has said he would be "hard-pressed" to veto the lottery sunset bill.	3.800
+766	main-news	MSRpar	2012train	0007	none	none	Chavez said investigators feel confident they've got "at least one of the fires resolved in that regard."	Albuquerque Mayor Martin Chavez said investigators felt confident that with the arrests they had "at least one of the fires resolved."	3.800
+767	main-news	MSRpar	2012train	0048	none	none	Critics say the law violates civil liberties, something House Judiciary Committee Chairman James Sensenbrenner, R-Wis., says he is sensitive to.	House Judiciary Committee Chairman James Sensenbrenner, R-Wis., says he is sensitive to civil liberties complaints.	3.750
+768	main-news	MSRpar	2012train	0175	none	none	Sequent representatives could not immediately be reached for comment on the SCO announcement.	A spokesman for SCO could not be reached for comment this afternoon.	3.800
+769	main-news	MSRpar	2012train	0187	none	none	Amazon also reported that the New York Attorney General's office had settled civil fraud charges with one of the spoofers it identified.	Amazon and the New York attorney general's office have already settled with one of the alleged e-mail forgers.	3.750
+770	main-news	MSRpar	2012train	0289	none	none	Kroger Co., which owns Ralphs, and Albertsons Inc. bargain jointly with Safeway and locked out their union workers the next day.	In a show of corporate solidarity, Kroger Co., which owns Ralphs, and Albertson Inc. locked out their workers the next morning.	3.800
+771	main-news	MSRpar	2012train	0320	none	none	The network is also dropping its Friday night "Dateline" edition.	The network will drop one edition of "Dateline," its newsmagazine franchise.	3.857
+772	main-news	MSRpar	2012train	0411	none	none	The consumer group generated $4.47 billion of profit and $20 billion of revenue from January to June, 53% of Citigroup's profit and revenue.	It generated $4.47 billion of profit and $20 billion of revenue in the year's first half, 53 percent of Citigroup's totals.	3.800
+773	main-news	MSRpar	2012train	0518	none	none	Im very proud of the citizens of this state, said Gov. John Baldacci, a casino foe.	"I´m very proud of the citizens of this state," Gov. John Baldacci said after votes from Tuesday´s referendum were counted.	3.800
+774	main-news	MSRpar	2012train	0571	none	none	Ray Brent Marsh, 29, faces multiple counts of burial service fraud, making false statements, abuse of a dead body and theft.	Ray Brent Marsh, 29, also faces charges of abuse of a body, and theft.	3.800
+775	main-news	headlines	2013	0114	none	none	Radical Islamists in Mali enlist new militia	Local Militia Bolsters Islamist Militants in Mali	3.75
+776	main-news	headlines	2013	0154	none	none	China's yuan rises to new high against USD Wednesday	China's yuan advances to 6.3103 against USD Wednesday	3.8
+777	main-news	headlines	2013	0219	none	none	Google names new Motorola Mobility CEO	Google appoints Dennis Woodside to run Motorola Mobility	3.8
+778	main-news	headlines	2013	0237	none	none	French Socialist Party wins parliament victory	French Socialists win absolute parliament majority	3.8
+779	main-news	headlines	2013	0371	none	none	Romney vows to restore 'promise of America'	Romney Promises to 'Restore America'	3.8
+780	main-news	headlines	2014	0212	none	none	Israelis, Palestinians resume talks in US	Israelis, Palestinians begin talks	3.8
+781	main-news	headlines	2014	0550	none	none	South Korean Workers Start Leaving Joint Factory Zone	South Korean workers set to leave joint factory zone	3.8
+782	main-news	headlines	2014	0629	none	none	Venezuela's Hugo Chavez dies of cancer	Venezuelan President Hugo Chavez dies of cancer at 58	3.8
+783	main-news	headlines	2015	0627	none	none	Kerry pursuing 'quiet strategy' in Mideast peace process	Kerry meets Israeli leaders to push Mideast peace	3.80
+784	main-news	headlines	2015	0750	none	none	North Korea fires three short-range missiles	N. Korea fires short-range missiles	3.80
+785	main-news	headlines	2015	1269	none	none	Two skydivers dead after colliding during US jump	Two skydivers dead after colliding during jump in Arizona	3.80
+786	main-news	headlines	2015	1333	none	none	Relatives scuffle with police after China fire kills 120	Angry families demand answers after China plant fire kills 119	3.80
+787	main-captions	MSRvid	2012test	0213	none	none	A puppy plays with a plastic container.	The dog is playing with a plastic container.	3.800
+788	main-captions	MSRvid	2012test	0518	none	none	A woman pours oil into a skillet from a plastic bottle while she is talking.	An older woman is pouring oil into a skillet on the stove.	3.800
+789	main-captions	MSRvid	2012train	0068	none	none	Women are running.	Two women are running.	3.824
+790	main-captions	track5.en-en	2017	0221	none	none	A soccer player is kicking the ball.	The soccer player gave the ball a high kick.	3.800000
+791	main-forums	answers-forums	2015	1115	none	none	It does sound like your cat is upset about something, and trying to communicate it to you.	Something is bothering your cat and he does not like it.	3.80
+792	main-news	MSRpar	2012test	0040	none	none	Tom Kasmer, a 14-year-old from Belmont, N.C., got a word that sounded like "zistee" during yesterday's competition.	The 14-year-old national spelling finalist who attends school in Belmont, N.C., got a word that sounded like "zistee" during competition Wednesday.	3.750
+793	main-news	MSRpar	2012test	0347	none	none	But price declines have remained below 30 percent, year over year, for the last two quarters, said IDC analyst John McArthur.	McArthur told internetnews.com price declines have moderated and remained below 30 percent from the previous year for the last two quarters.	3.750
+794	main-news	MSRpar	2012test	0405	none	none	The WHO says the latest case does not fit its profile of SARS and is not a public health concern.	The WHO has said the Singapore case did not fit its profile of SARS and was "not an international public health concern."	3.800
+795	main-news	MSRpar	2012train	0258	none	none	According to security sources, London Metropolitan Police Commissioner John Stevens placed his force on its highest state of alert last week following the warning.	The Telegraph can reveal that Sir John Stevens, the Metropolitan Police Commissioner, placed his force on its highest alert last week.	3.800
+796	main-news	headlines	2013	0146	none	none	PM in Tehran, asks NAM to take clear stand on Syria	Manmohan in Tehran, asks NAM to take a stand on Syria	3.8
+797	main-news	headlines	2013	0164	none	none	Russia, China veto UN resolution on Syria endorsing	Russia, China veto U.N. draft backing Arab plan for Syria (Reuters)	3.8
+798	main-news	headlines	2014	0098	none	none	UK alert on Syrian chemical arms	West raises stakes over Syria chemical claims	3.8
+799	main-news	headlines	2015	0204	none	none	Rosberg emulates father with Monaco win	FORMULA 1: Rosberg stays modest despite Monaco win	3.80
+800	main-captions	MSRvid	2012test	0160	none	none	Lionel Richie is dancing on the ceiling.	Lionel Ritchie dances while standing on the ceiling.	4.000
+801	main-captions	MSRvid	2012test	0297	none	none	A rooster pecks at a dead mouse.	A chicken is pecking at a dead mouse.	4.000
+802	main-captions	MSRvid	2012test	0699	none	none	The lady sliced a tomatoe.	Someone is cutting a tomato.	4.000
+803	main-captions	MSRvid	2012train	0203	none	none	The baby is laughing and crawling.	A baby is laughing and crawling on the floor.	4.200
+804	main-captions	MSRvid	2012train	0226	none	none	A cat swings on a ceiling fan.	A cat is spun around by a ceiling fan.	4.200
+805	main-captions	MSRvid	2012train	0437	none	none	A woman with a knife is slicing a pepper.	A women slicing green pepper.	4.000
+806	main-captions	MSRvid	2012train	0496	none	none	A man is taking out the insides of a green pepper.	Someone is removing the seeds from a bell pepper.	4.000
+807	main-captions	images	2014	0117	none	none	A black, flat screen television placed on the floor.	A flat screen TV on the floor.	4
+808	main-captions	images	2014	0211	none	none	Yellow striped cat resting on blue sofa.	An orange tabby cat sleeping on the sofa.	4
+809	main-captions	images	2014	0445	none	none	A sheep standing on a table at auction.	Woolly sheep at auction house.	4.2
+810	main-captions	images	2014	0484	none	none	A black cow and a brown cow stands in a plain in front of an uprooted tree.	A black cow and a brown cow standing in front of a small copse of trees in a field.	4.2
+811	main-captions	images	2014	0629	none	none	Eight bottles of Harp lager lined up on the floor.	Eight bottles of Harp beer lined up on a wooden floor.	4
+812	main-captions	images	2014	0698	none	none	A man is standing next to a yellow sports car.	A man stands next to a yellow Corvette.	4
+813	main-captions	images	2014	0705	none	none	Double decker bus with the London Eye ferris wheel in background.	a brown double decker tour bus on a street with a ferris wheel behind it.	4.2
+814	main-captions	images	2015	0802	none	none	The man in the red shirt is climbing the side of a mountain.	A man is climbing the side of a mountain.	4.20
+815	main-captions	images	2015	1209	none	none	Two different breeds of brown and white dogs play on the beach.	Two dogs playing in the sand at the beach.	4.00
+816	main-forum	deft-forum	2014	0074	none	none	Dr. Neander's revised version.	Neander's revised version"?	4
+817	main-forum	deft-forum	2014	0130	none	none	The money I spent adopting Velociraptor.	Those may be my top . The money I spent adopting Velociraptor.	4.2
+818	main-forum	deft-forum	2014	0180	none	none	Tell us what the charges were.	Yes what are his charges.	4
+819	main-forum	deft-forum	2014	0276	none	none	Tell me exactly which system isn't working right now?	So which system isn't working for us?	4
+820	main-news	MSRpar	2012test	0033	none	none	It's the first such drill since the September 11 terrorist attacks on New York and Washington.	It is the nation's first large-scale counterterrorism exercise since the Sept. 11 terrorist attacks.	4.000
+821	main-news	MSRpar	2012test	0298	none	none	The bulk of the funds, some $65 billion, will go for military operations in Iraq and Afghanistan.	The bulk of the bill - $64.7 billion - goes for military operations primarily in Iraq and Afghanistan.	4.000
+822	main-news	MSRpar	2012test	0456	none	none	He was the Ace of Diamonds in a pack of cards depicting Iraqi fugitives that has been issued to U.S. troops.	He was the ace of diamonds in a U.S. deck of cards showing pictures of most-wanted Iraqi leaders.	4.000
+823	main-news	MSRpar	2012test	0521	none	none	"We haven't decided whether to use an unbroken or dotted white line, but this is an experiment worth introducing," said David Richardson, the ICC's cricket manager.	"We haven't decided whether to use an unbroken or dotted white line," said Dave Richardson, the ICC's cricket manager.	4.000
+824	main-news	MSRpar	2012test	0738	none	none	Carlson on Tuesday said he would not recuse himself from the case.	Service officials said Carlson refused to recuse himself from the case.	4.000
+825	main-news	MSRpar	2012train	0091	none	none	On Tuesday, the central bank left interest rates steady, as expected, but also declared that overall risks were weighted toward weakness and warned of deflation risks.	The central bank's policy board left rates steady for now, as widely expected, but surprised the market by declaring that overall risks were weighted toward weakness.	4.000
+826	main-news	MSRpar	2012train	0170	none	none	People who have opposed these actions throughout are now trying to find fresh reasons to say this wasn't the right thing to do."	"What is happening here is that people who have opposed this action throughout are trying to find fresh reasons why it was not the right thing to do."	4.000
+827	main-news	MSRpar	2012train	0255	none	none	That triggered a 47-hour police standoff that inconvenienced thousands of commuters, as traffic backed up in Downtown Washington and northern Virginia.	His protest led to a 47-hour standoff with police that caused huge traffic jams in downtown Washington and northern Virginia.	4.000
+828	main-news	MSRpar	2012train	0531	none	none	"It was a final test before delivering the missile to the armed forces.	State radio said it was the last test before the missile was delivered to the armed forces.	4.000
+829	main-news	MSRpar	2012train	0538	none	none	Russian stocks fell after the arrest last Saturday of Mikhail Khodorkovsky, chief executive of Yukos Oil, on charges of fraud and tax evasion.	The weekend arrest of Russia's richest man, Mikhail Khodorkovsky, chief executive of oil major YUKOS, on charges of fraud and tax evasion unnerved financial markets.	4.000
+830	main-news	deft-news	2014	0000	none	none	mexico wishes to guarantee citizens' safety.	mexico wishes to avoid more violence.	4
+831	main-news	deft-news	2014	0002	none	none	the treaty was first signed in 1990.	the cfe treaty was signed in 1990.	4.2
+832	main-news	deft-news	2014	0113	none	none	the treaty limits the number of aircraft, tanks and other non-nuclear heavy weapons around europe.	the conventional forces in europe treaty limits the number of military aircraft, tanks and other non-nuclear heavy weapons in europe.	4.2
+833	main-news	headlines	2013	0481	none	none	Obama relaxes deportation rules for young immigrants	U.S. relaxes deportation rules for young people: Napolitano	4
+834	main-news	headlines	2014	0217	none	none	Four U.S. Air Force helicopter crew members killed in UK crash	US Air Force helicopter crew killed in British crash	4
+835	main-news	headlines	2014	0272	none	none	Critical Gates memoir rocks Obama administration	Gates blast rocks Obama administration	4
+836	main-news	headlines	2014	0283	none	none	Thai political protests paralyse more ministries	Thai protesters besiege more ministries	4.2
+837	main-news	headlines	2015	0577	none	none	Uganda's president signs anti-gay bill	Uganda's president signs harsh anti-gay law	4.20
+838	main-news	headlines	2015	0684	none	none	Bombing Aimed at Hezbollah Hits Southern Beirut	Explosion Hits Hezbollah Area South of Beirut	4.20
+839	main-news	headlines	2015	0867	none	none	US seeks to reassure wary Gulf allies over Iran deal	Hagel seeks to reassure jittery Gulf allies after Iran deal	4.00
+840	main-news	headlines	2016	0192	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Ukrainian parliament dismisses president	Ukraine's parliament votes to dismiss president	4
+841	main-captions	MSRvid	2012train	0318	none	none	A target is being hit with gun fire.	The target was being shot with bullets.	4.214
+842	main-captions	MSRvid	2012train	0346	none	none	A person is picking a komodo dragon and putting it in a box.	A person is placing a baby komodo dragon into a container.	4.200
+843	main-captions	images	2014	0394	none	none	Two bald eagles perched on a branch.	Two eagles are perched on a branch.	4.2
+844	main-captions	images	2014	0666	none	none	Black bird sitting on a concrete slab.	Black bird standing on concrete.	4
+845	main-captions	images	2014	0739	none	none	Two cats sitting together on the sofa looking out the window.	Two cats sit on the back of a couch looking out the window.	4.2
+846	main-captions	track5.en-en	2017	0079	none	none	A woman paints a picture of a large building which can be seen in the background.	A person paints a picture of a large building which can be seen in the background.	4.200000
+847	main-forums	answers-forums	2015	0606	none	none	Yes, you can add coffee grounds with their filters to your compost pile.	Absolutely ok; we have incorporated coffee grounds into our plant food and many of those grounds included the paper filter.	4.00
+848	main-forums	answers-forums	2015	1409	none	none	The president is not really all that important for German people.	The function of the german president is almost just representative.	4.00
+849	main-news	MSRpar	2012train	0370	none	none	The blaze then spread to several surrounding structures on the property and destroyed them.	The fire spread to several surrounding structures on the property and destroyed them as deputies held back firefighters.	4.000
+850	main-captions	MSRvid	2012test	0011	none	none	Some men are fighting.	Two men are fighting.	4.250
+851	main-captions	MSRvid	2012train	0230	none	none	The woman is dicing onions.	A woman is cutting an onion.	4.400
+852	main-captions	MSRvid	2012train	0457	none	none	A person is adding oil in the pan.	The cook pouring oil into the pan.	4.250
+853	main-captions	images	2014	0107	none	none	A woman posing in front of an apartment building in the snow.	A woman stands in front of a building in the snow.	4.4
+854	main-captions	images	2014	0579	none	none	a brown double decker tour bus on a street with a ferris wheel behind it.	A double-decker bus driving in front of a ferris wheel.	4.4
+855	main-captions	images	2014	0644	none	none	Two young women shear a sheep.	Two women sheering a sheep.	4.4
+856	main-captions	images	2015	0395	none	none	A dog is jumping over a barrier at a agility competition.	A dog jumping over an obstacle course fence.	4.40
+857	main-captions	images	2015	1002	none	none	The beagle is walking on the beach at the waterline.	A beagle walks along the calm shore.	4.40
+858	main-captions	images	2015	1087	none	none	A shirtless man playing football on a lawn.	A shirtless man catches a football	4.40
+859	main-forum	deft-forum	2014	0017	none	none	Hey, Blue-Eyes, How's things in London?	**smooches Ran** Hey, Blue-Eyes, How's things in London?	4.4
+860	main-forum	deft-forum	2014	0209	none	none	Despicable Ben, Stop trying to find excuses for the man.	Ben, Stop trying to find excuses for the man.	4.4
+861	main-forum	deft-forum	2014	0271	none	none	What conviction where you talking about before?	What conviction would that be?	4.4
+862	main-news	MSRpar	2012test	0041	none	none	Tom Kraynak, manager of operations and resources for the Canton, Ohio-based East Central Area Reliability Council, said that scenario is one among many that investigators are considering.	Tom Kraynak, manager of operations and resources for the Canton, Ohio-based East Central Area Reliability Council, said investigators are considering the scenario.	4.250
+863	main-news	MSRpar	2012test	0097	none	none	Daniels said he doesn't know what Bush will have to say about him at tonight's $2,000-per-person presidential fund-raiser.	Daniels said he doesn't know what Bush will say at tonight's $2,000-per-person reception to raise funds for his presidential re-election bid.	4.400
+864	main-news	MSRpar	2012test	0103	none	none	Officials at Brandeis said this was an "extremely heartrending" time for the campus.	"This is an extremely heartrending time for the entire Brandeis University community.	4.400
+865	main-news	MSRpar	2012test	0136	none	none	CIA Director George Tenet said the two men were "defined by dedication and courage."	"[They] were defined by dedication and courage," said the CIA's director George Tenet.	4.250
+866	main-news	MSRpar	2012test	0238	none	none	Previously, it had reported a profit of $12 million, or 0 cents a share, for that period.	Previously, it had reported a small profit of $12 million, or break-even on a per-share basis, for the period.	4.400
+867	main-news	MSRpar	2012test	0398	none	none	He projected Vanderpool will be available within the next five years.	Products featuring Vanderpool will be released within five years, he said.	4.400
+868	main-news	MSRpar	2012test	0539	none	none	The epidemic began in November in the mainland's Guangdong province, but the People's Republic of China refused to report truthfully about its spread for four months.	The PRC epidemic began in Guandong province in November, but the Communist Party government refused to report truthfully about its spread for four months.	4.250
+869	main-news	MSRpar	2012train	0182	none	none	A spokesman said: "Since November, we have co-operated fully with the police.	It added it had "co-operated fully" with police since November.	4.250
+870	main-news	MSRpar	2012train	0565	none	none	Those reports were denied by the interior minister, Prince Nayef.	However, the Saudi interior minister, Prince Nayef, denied the reports.	4.250
+871	main-news	MSRpar	2012train	0640	none	none	The euro has slipped nearly four percent since matching a record peak of around $1.1935 only last week and hitting an all-time high of 140.90 yen in late May.	The euro has slipped as much as four cents since matching a record peak near $1.1935 last week and hitting a record high of 140.90 yen in late May.	4.333
+872	main-news	deft-news	2014	0025	none	none	russian president putin signs decree suspending russia's application of european arms control treaty.	president vladimir putin signed a decree suspending russia's participation in the conventional forces in europe treaty.	4.4
+873	main-news	deft-news	2014	0051	none	none	iran insists that the program is aimed solely at peaceful pursuits such as the generation of	iran insists that its nuclear program is for peaceful purposes	4.4
+874	main-news	deft-news	2014	0218	none	none	cyber attacks are considered a growing threat to military and civilian computer networks.	nato considers cyber attacks a growing threat to military and civilian computer networks.	4.4
+875	main-news	deft-news	2014	0267	none	none	russia may pull out of the treaty if the us and other nato allies refuse to ratify the amended version.	warned that russia would withdraw from the treaty if western nations refuse to ratify its amended version.	4.4
+876	main-news	headlines	2013	0126	none	none	'Iran will attack Tel Aviv if Israel strikes'	Senior cleric: Iran will attack Tel Aviv if Israel strikes	4.4
+877	main-news	headlines	2013	0252	none	none	EU heaps new sanctions on Syria	EU imposes new sanctions on Syrian regime	4.4
+878	main-news	headlines	2013	0334	none	none	South Sudan accuses Sudan of bombings ahead of talks	S. Sudan accuses Sudan of bombing in blow to talks	4.4
+879	main-news	headlines	2013	0500	none	none	Romney announces Paul Ryan as running mate	Romney chooses Ryan as GOP running mate	4.4
+880	main-news	headlines	2013	0702	none	none	German parliament overwhelmingly backs Greek rescue deal	German parliament endorses Greek bailout	4.4
+881	main-news	headlines	2014	0065	none	none	Israel conducts airstrike on Syria	Israel launches new airstrike against Syria	4.4
+882	main-news	headlines	2014	0100	none	none	Asteroid zips between Earth and satellites	Asteroid passes Earth in fly-by	4.4
+883	main-news	headlines	2014	0232	none	none	Preston and England legend Tom Finney dies at 91	Former England great Tom Finney dies at 91	4.4
+884	main-news	headlines	2014	0397	none	none	U.S. bans carry-on liquids, gels on flights to Russia	US bans carry-on liquids on direct flights to Russia	4.4
+885	main-news	headlines	2014	0432	none	none	More than 1,000 inmates escape from Libya's al-Kweifiya prison	1000 prisoners escape from Libyan jail	4.4
+886	main-news	headlines	2014	0491	none	none	Pro-Pak Taliban warlord killed in US drone strike	Taliban commander killed in US drone strike	4.4
+887	main-news	headlines	2014	0573	none	none	Top judge Mansour sworn in as Egypt interim president	Justice Adly Mansour sworn in as Egypt interim president	4.4
+888	main-news	headlines	2014	0582	none	none	Bomb explodes at Greek shopping mall, two people injured	Bomb explodes at Athens shopping mall, 2 wounded	4.4
+889	main-news	headlines	2015	0775	none	none	ICC Champions Trophy: India vs South Africa	Champions Trophy: India v South AfricaLive	4.33
+890	main-news	headlines	2015	1120	none	none	Glee star Cory Monteith found dead in hotel room in Canada	'Glee' star Cory Monteith found dead	4.40
+891	main-captions	track5.en-en	2017	0045	none	none	The dogs are chasing a cat.	The dogs are chasing a black cat.	4.400000
+892	main-forums	answers-forums	2015	0104	none	none	It indeed appears the Andromeda galaxy (M31) and The Milky Way (MW) are en route to a collision.	In a few billion years, the Milky Way and Andromeda will collide.	4.40
+893	main-forums	answers-forums	2015	0422	none	none	Pardon the brevity of this answer, but I would say "named" is preferred within the context of your example.	Named is preferred in your example, since you are formally giving a name to your method.	4.40
+894	main-news	MSRpar	2012test	0163	none	none	Another million barrels, bought by Spanish refiner Cepsa SA, was to be loaded onto a Spanish tanker, the Sandra Tapias.	A Spanish tanker, Sandra Tapias, was to be loaded with another million barrels, bought by Spanish refiner Cepsa SA, in the afternoon.	4.400
+895	main-news	MSRpar	2012test	0239	none	none	Earlier Thursday, PeopleSoft formally rejected the unsolicited bid from Oracle.	Thursday morning, PeopleSoft's board rejected the Oracle takeover offer.	4.400
+896	main-news	MSRpar	2012test	0356	none	none	Appellate courts across the country have issued differing rulings on the issue, allowing public displays of the Ten Commandments in some cases and banning them in others.	Lower courts have splintered on the issue, allowing depictions of the Ten Commandments in some instances and not in others.	4.250
+897	main-news	MSRpar	2012train	0146	none	none	Part of the accord was the implementation of a special health council that would monitor health spending and progress in reforming the health system.	A key portion of the accord was the implementation of a special council to monitor health spending, set goals for the system and measure progress in reforming health care.	4.400
+898	main-news	MSRpar	2012train	0151	none	none	The companies, Chiron and Aventis Pasteur, together made about 80 million doses of the injected vaccine, which ordinarily would have been enough to meet U.S. demand.	Chiron and Aventis Pasteur together made about 80 million doses, ordinarily enough for U.S. demand, The Associated Press reported.	4.400
+899	main-news	MSRpar	2012train	0154	none	none	Investigators uncovered a 4-inch bone fragment from beneath the concrete slab Thursday, but it turned out to be an animal bone, authorities said.	Investigators uncovered a 4-inch bone fragment Thursday night, but authorities said it was from an animal.	4.400
+900	main-captions	MSRvid	2012test	0163	none	none	A woman is playing flute.	A woman plays on a flute.	4.600
+901	main-captions	MSRvid	2012test	0447	none	none	A woman splits garlic cloves.	A woman is breaking a head of garlic into cloves.	4.600
+902	main-captions	MSRvid	2012train	0089	none	none	A man is slicing a cucumber.	A man is cutting cucumbers.	4.500
+903	main-captions	MSRvid	2012train	0259	none	none	A man is dancing on the ceiling of a room.	A man is dancing upside-down on the ceiling.	4.600
+904	main-captions	MSRvid	2012train	0573	none	none	A woman is applying cosmetics to her face.	A woman is putting on makeup.	4.600
+905	main-captions	images	2014	0081	none	none	Group of horses grazing in grassy field.	A group of horses grazing in a field.	4.6
+906	main-captions	images	2014	0375	none	none	Two dairy cows drinking from a pond.	Two cows are drinking from a pond.	4.6
+907	main-captions	images	2014	0652	none	none	A young girl riding a white and grey horse.	a little girl is riding a white and grey horse.	4.6
+908	main-captions	images	2015	1042	none	none	Children are playing in a swimming pool while two adult men watch them.	Children play in a pool while adults look on.	4.60
+909	main-captions	images	2015	1186	none	none	A black and white spotted dog jumps over a stream.	A black and white spotted dog is jumping over the small stream of water.	4.60
+910	main-forum	deft-forum	2014	0005	none	none	go figure You're asking me to prove a negative?	You're asking me to prove a negative?	4.6
+911	main-forum	deft-forum	2014	0021	none	none	.Nazi is a slang term for the NSWP.	Originally Posted by Odins eye .Nazi is a slang term for the NSWP.	4.6
+912	main-forum	deft-forum	2014	0137	none	none	Do you notice the nonsensical things you are saying?	And to be fair, do you notice the nonsensical things you are saying?	4.57142857142857
+913	main-forum	deft-forum	2014	0212	none	none	He said at EVERY level.	But he said EVERY level.	4.6
+914	main-forum	deft-forum	2014	0308	none	none	Do you notice the nonsensical things you are saying?	And to be fair, do you notice the nonsensical things you are saying?	4.57142857142857
+915	main-forum	deft-forum	2014	0391	none	none	There is no "WAR" in the middle east.	There is no war in the Middle east.	4.6
+916	main-news	MSRpar	2012test	0438	none	none	Congress twice before passed similar restrictions only to see President Bill Clinton veto them.	Congress twice passed similar bills, but then-President Clinton vetoed them both times.	4.600
+917	main-news	MSRpar	2012test	0703	none	none	IAC's stock closed yesterday down $2.81, or 7.6 percent, at $34.19.	InterActiveCorp's shares closed at $34.19, down $2.81, or 7.6 percent on the Nasdaq Stock Market.	4.500
+918	main-news	MSRpar	2012train	0115	none	none	The union had not yet revealed which chain would be targeted.	The union said it would reveal later which chain would be targeted.	4.600
+919	main-news	MSRpar	2012train	0153	none	none	London-based NCRI official Ali Safavi told Reuters: "We condemn this raid, which is in our view illegal and morally and politically unjustifiable."	"We condemn this raid which is in our view illegal and morally and politically unjustifiable," London-based NCRI official Ali Safavi told Reuters by telephone.	4.600
+920	main-news	MSRpar	2012train	0371	none	none	The rapper's lawyer, Mark Gann, didn't return calls for comment.	The 27-year-old rapper's attorney in the civil matter, Mark Gann, did not return calls for comment.	4.500
+921	main-news	MSRpar	2012train	0703	none	none	Dogs, he said, are second only to humans in the thoroughness of medical understanding and research.	He said that dogs are second only to humans in terms of being the subject of medical research.	4.600
+922	main-news	deft-news	2014	0184	none	none	7 police officers were killed and 4 officers were wounded.	during the clash 7 seven police officers were killed and 4 seriously wounded.	4.6
+923	main-news	deft-news	2014	0224	none	none	in september 2007 jordan signed an accord with the united states aimed at supporting the peaceful development of the jordan's nascent nuclear program.	in september 2007 the united states signed an accord with jordan aimed at supporting the peaceful development of jodran's new nuclear program.	4.6
+924	main-news	headlines	2013	0172	none	none	Former Nazi death camp guard Demjanjuk dead at 91	John Demjanjuk, convicted Nazi death camp guard, dies aged 91	4.6
+925	main-news	headlines	2013	0180	none	none	Clinton warns Kenya of cost of election violence	Clinton warns Kenya on cost of election unrest	4.6
+926	main-news	headlines	2013	0181	none	none	Arkansas Supreme Court strikes down execution law	Arkansas Justices Strike Down Death Penalty	4.6
+927	main-news	headlines	2013	0624	none	none	Avalanche buries at least 100 Pakistani soldiers	Avalanche buries over 100 Pakistani soldiers	4.6
+928	main-news	headlines	2013	0625	none	none	Inflation falls to 15-month low: what the analysts say	Inflation falls to 15-month low	4.6
+929	main-news	headlines	2014	0004	none	none	Liquid ammonia leak kills 15 in Shanghai	Liquid ammonia leak kills at least 15 in Shanghai	4.6
+930	main-news	headlines	2014	0064	none	none	Thai protesters break into army headquarters	Thai protesters storm army headquarters	4.6
+931	main-news	headlines	2014	0290	none	none	Exclusive-UPDATE 2-Egypt pro-Mursi alliance signals flexibility in talks	EXCLUSIVE-UPDATE 1-Egypt pro-Mursi alliance signals flexibility in talks	4.6
+932	main-news	headlines	2014	0472	none	none	Egypt Crackdown Draws Condemnation	Egypt: Egypt crackdown sparks global outrage	4.6
+933	main-news	headlines	2014	0623	none	none	Israeli Minister Slams Kerry's Boycott Warning	Israeli minister slams Kerry’s boycott warning	4.6
+934	main-news	headlines	2015	0218	none	none	U.N. condemns ethnic killings in South Sudan oil town	UN Condemns Ethnic Killings in South Sudan	4.60
+935	main-news	headlines	2015	0590	none	none	Judge OKs force-feeding California inmates	U.S. judge approves force-feeding Californian inmates on hunger strik	4.60
+936	main-news	headlines	2015	0609	none	none	Bangladesh Islamists rally against atheist bloggers	Bangladeshi Islamists rally to demand action against atheist bloggers	4.60
+937	main-news	headlines	2015	0852	none	none	Deadly clashes as Egypt marks anniversary	Violent clashes mark anniversary of Egypt uprising	4.60
+938	main-news	headlines	2015	1496	none	none	South Korean President Sorry For Ferry Response	S. Korean president 'sorry' for ferry disaster	4.60
+939	main-captions	MSRvid	2012test	0507	none	none	A girl is riding a horse.	The girl trotted the horse.	4.500
+940	main-captions	images	2015	0069	none	none	Two white dogs are walking through deep white snow.	Two white dogs walk through a huge bank of mountain snow.	4.60
+941	main-captions	track5.en-en	2017	0091	none	none	A man is enjoying watching three asian children dance.	A man is watching three asian kids dance.	4.600000
+942	main-captions	track5.en-en	2017	0163	none	none	A woman is in the bathroom.	The woman is in a bathroom.	4.600000
+943	main-news	MSRpar	2012test	0172	none	none	Calvin Hollins Jr.'s attorney, Thomas Royce, has repeatedly said his client had no link with the company that owned and operated E2.	The lawyer for Hollins Jr., Thomas Royce, has said his client had no link to the company that owned and operated E2.	4.500
+944	main-news	MSRpar	2012train	0362	none	none	At midnight on Wednesday, 68 percent of voters said "no" to the tax, with 97 percent of the votes counted.	With 97 percent of precincts counted tonight, 68 percent of voters opposed the tax.	4.667
+945	main-news	MSRpar	2012train	0537	none	none	Former South African Archbishop Desmond Tutu said Sunday he did not see what "all the fuss" was over appointing a gay bishop, but urged homosexual clergy to remain celibate.	South Africa's Nobel laureate Archbishop Desmond Tutu says he does not understand all the fuss about appointing a gay bishop, but he has urged homosexual clergy to remain celibate.	4.500
+946	main-news	headlines	2013	0057	none	none	Coty launches $10 billion bid for rival Avon	Coty bids $10 billion for Avon	4.6
+947	main-news	headlines	2013	0079	none	none	Mohamed Morsi sworn in as Eygptian president	Mohamed Morsi sworn in as Egypt's President	4.6
+948	main-news	headlines	2015	0146	none	none	Michelle Obama To Star In Parks And Recreation	Michelle Obama to appear on 'Parks and Recreation'	4.60
+949	main-news	headlines	2015	0854	none	none	Australia cuts rates to record low	Australia cuts interest rates to record low	4.60
+950	main-captions	MSRvid	2012test	0038	none	none	The boy fell off his bike.	A boy falls off his bike.	4.800
+951	main-captions	MSRvid	2012test	0055	none	none	A dog rides a skateboard.	A dog is riding a skateboard.	5.000
+952	main-captions	MSRvid	2012test	0078	none	none	A dog licks a baby.	A dog is licking a baby.	4.750
+953	main-captions	MSRvid	2012test	0202	none	none	The man cut some carpet with a knife.	A man is cutting carpet with a knife.	4.750
+954	main-captions	MSRvid	2012test	0368	none	none	A man puts some cheese on a pizza.	The man sprinkled cheese on the pizza.	5.000
+955	main-captions	MSRvid	2012train	0026	none	none	A cat opens a drawer and climbs inside.	A cat is opening a drawer and climbing inside.	5.000
+956	main-captions	MSRvid	2012train	0039	none	none	A man plays the guitar.	A man is playing the guitar.	5.000
+957	main-captions	MSRvid	2012train	0157	none	none	A woman is grating onion.	A woman grates onions.	5.000
+958	main-captions	images	2014	0234	none	none	A close-up of a sheep with its tongue hanging out.	Close up image of a sheep with it's tongue hanging out.	5
+959	main-captions	images	2014	0378	none	none	The black dog is lying in the grass.	A black dog lies on the grass.	5
+960	main-captions	images	2015	0203	none	none	A dog swimming with a stick in it's mouth.	Dog swimming in the water with a stick in its mouth.	5.00
+961	main-captions	images	2015	0538	none	none	A young girl is sitting on Santa's lap.	A little girl is sitting on Santa's lap	4.80
+962	main-captions	images	2015	0731	none	none	A man climbing a cliff face.	A man climbs a sheer cliff face.	4.80
+963	main-captions	images	2015	1199	none	none	a group of teenagers are jumping in the air on the beach.	A group of young people jump up in the air while on the beach.	4.80
+964	main-captions	images	2015	1340	none	none	Scuba diver submerged in water.	The scuba diver is underwater.	5.00
+965	main-forum	deft-forum	2014	0167	none	none	We're talking about angels and common pins again, right?	@Lustig Andrei, We're talking about angels and common pins again, right?	4.8
+966	main-forum	deft-forum	2014	0314	none	none	David @OmSigDAVID, I think Santorum's more likely than Gingrich.	@sozobe, I think Santorum's more likely than Gingrich.	4.8
+967	main-news	MSRpar	2012test	0035	none	none	Ursel Reisen confirmed it operated the coach, but gave no details other than to say the passengers were of mixed ages.	Ursel Reisen confirmed it had been operating the coach, but declined to give details of the passengers other than to say they were of mixed ages.	4.800
+968	main-news	MSRpar	2012test	0106	none	none	The value will total about $124 million, including convertible securities, according to Corel.	Including convertible securities, the total estimated value of the deal is $124 million, according to Corel.	5.000
+969	main-news	MSRpar	2012test	0300	none	none	Dolores Mahoy, 68, of Colorado Springs, Colo., is someone who might be helped by the legislation pending in Congress.	Dolores E. Mahoy, 68, of Colorado Springs is just the type of person who might be helped by the legislation pending in Congress.	4.800
+970	main-news	MSRpar	2012test	0594	none	none	The national denomination of the Episcopal Church, with 2.3 million members, is the U.S. branch of the 77 million-member Anglican Communion.	The Episcopal Church, with 2.3 million members, is the American branch of the worldwide Anglican Communion, which has 77 million adherents.	5.000
+971	main-news	MSRpar	2012train	0013	none	none	The Episcopal Church ''is alienating itself from the Anglican Communion,'' said the Very Rev. Peter Karanja, provost of the All Saints Cathedral, in Nairobi.	In Nairobi, the provost of All Saints Cathedral, the Very Reverend Peter Karanja, said the US Episcopal Church was alienating itself from the Anglican Communion.	5.000
+972	main-news	deft-news	2014	0110	none	none	the new law attempts to remove any legal obstacles to building more advanced spy satellites and to help innovation in japans's space industry.	the purpose of the new law is to remove any legal obstacles to building more advanced spy satellites and to encourage innovation in japans's space industry.	4.8
+973	main-news	deft-news	2014	0121	none	none	the cfe is very important for european security.	the cfe is a cornerstone of european security.	5
+974	main-news	headlines	2013	0142	none	none	Hurricane Sandy Closes in on US East Coast	Hurricane Sandy takes aim at US East Coast	4.8
+975	main-news	headlines	2014	0447	none	none	China stocks end lower Thursday	China stocks close lower on Thursday	5
+976	main-news	headlines	2014	0483	none	none	Philippines, rebels reach wealth-sharing deal	Philippines and rebels reach 'wealth deal'	5
+977	main-news	headlines	2014	0546	none	none	Israeli forces detain 5 Palestinians in West Bank	Israeli Forces Arrest Five Palestinians across West Bank	4.8
+978	main-news	headlines	2014	0615	none	none	East Timor bans martial arts clubs amid killings	East Timor Bans Martial Arts Schools Amid Killings	5
+979	main-news	headlines	2014	0626	none	none	Myanmar’s Suu Kyi urges party unity amid squabbles	Suu Kyi urges party unity amid squabbles	5
+980	main-news	headlines	2014	0640	none	none	US Cannot 'Conclusively Determine' Chemical Weapons Use in Syria	U.S. Sees No Conclusive Evidence of Chemical Arms Use by Syria	4.8
+981	main-news	headlines	2015	0107	none	none	NYPD Twitter Outreach Backfires Badly	NYPD's twitter campaign backfires	4.80
+982	main-news	headlines	2015	0177	none	none	Kevin Rudd sworn in as Australian prime minister	Rudd sworn in as Australia's new Prime Minister	5.00
+983	main-news	headlines	2015	0389	none	none	BlackBerry loses US$965m in Q2	BlackBerry loses $965M in 2nd quarter	5.00
+984	main-news	headlines	2015	0416	none	none	Outrage after reports emerge about 6-year-old Indian girl raped at school	Outrage After Indian Girl, 6, Raped at Her School	5.00
+985	main-news	headlines	2015	0584	none	none	Rock bands' plane makes emergency landing in Ill.	Rock Bands' Plane Makes Emergency Landing in Ill.	5.00
+986	main-news	headlines	2015	0654	none	none	Egypt votes on new constitution	Egyptians Voting on New Constitution	5.00
+987	main-news	headlines	2015	0702	none	none	Bodies of MH17 crash victims flown to Netherlands	MH17 dead flown back to Netherlands	4.80
+988	main-news	headlines	2015	0755	none	none	Microsoft says to cut up to 18,000 jobs	Microsoft to cut 18,000 jobs in overhaul	5.00
+989	main-news	headlines	2016	0015	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Spain Princess Testifies in Historic Fraud Probe	Spain princess testifies in historic fraud probe	5
+990	main-captions	MSRvid	2012test	0002	none	none	A young child is riding a horse.	A child is riding a horse.	4.750
+991	main-captions	MSRvid	2012test	0015	none	none	A man is erasing a chalk board.	The man is erasing the chalk board.	5.000
+992	main-captions	MSRvid	2012test	0206	none	none	A man is playing a guitar.	A man plays the guitar.	5.000
+993	main-captions	MSRvid	2012test	0219	none	none	A man plays the piano.	A man is playing a piano.	5.000
+994	main-captions	MSRvid	2012test	0488	none	none	The man used a sword to slice a plastic bottle.	A man sliced a plastic bottle with a sword.	5.000
+995	main-captions	MSRvid	2012train	0018	none	none	The man is slicing a potato.	A man is slicing potato.	5.000
+996	main-captions	images	2015	0832	none	none	A dog jogs through the grass.	a dog trots through the grass.	5.00
+997	main-news	MSRpar	2012test	0009	none	none	He later learned that the incident was caused by the Concorde's sonic boom.	He later found out the alarming incident had been caused by Concorde's powerful sonic boom.	5.000
+998	main-news	MSRpar	2012train	0016	none	none	The last time the survey was conducted, in 1995, those numbers matched.	In 1995, the last survey, those numbers were equal.	5.000
+999	main-news	MSRpar	2012train	0727	none	none	But skeptics are concerned about the ease with which vendors can use these hardware-based security features to set digital rights management policies.	But skeptics are concerned about the ease at which these hardware-based security features could be used to set digital rights management policies by vendors.	5.000

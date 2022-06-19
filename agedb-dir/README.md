@@ -1,4 +1,4 @@
-# RankSim on AgeDB-WIKI-DIR
+# RankSim on AgeDB-DIR
 This repository contains the implementation of __RankSim__ on *AgeDB-DIR* dataset. 
 
 The imbalanced regression framework and LDS+FDS are based on the public repository of [Yang et al., ICML 2021](https://github.com/YyzHarry/imbalanced-regression/tree/main/agedb-dir). 
@@ -49,7 +49,7 @@ To use Vanilla model
 ```bash
 python train.py --batch_size 256 --lr 1e-3
 ```
-To use square-root inverse
+To use square-root frequency inverse
 
 ```bash
 python train.py  --batch_size 256 --lr 1e-3 --reweight sqrt_inv 
@@ -129,6 +129,7 @@ If you do not train the model, you can evaluate the model and reproduce our resu
 ```bash
 python train.py --evaluate [...evaluation model arguments...] --resume <path_to_evaluation_ckpt>
 ```
+#### Pretrained weights 
 
 __SQINV + RankSim__, MAE All 6.91 (*best MAE All-shot*)
 [(weights)](https://drive.google.com/file/d/1NLCGNDA5vToe-MdOqokVYtUcJhGudIZe/view?usp=sharing) <br>

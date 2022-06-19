@@ -1,5 +1,5 @@
 # RankSim on IMDB-WIKI-DIR
-This repository contains the implementation of *RankSim* (ICML 2022) on *IMDB-WIKI-DIR* dataset. 
+This repository contains the implementation of __RankSim__ (ICML 2022) on *IMDB-WIKI-DIR* dataset. 
 
 The imbalanced regression framework and LDS+FDS are based on the public repository of [Yang et al., ICML 2021](https://github.com/YyzHarry/imbalanced-regression/tree/main/imdb-wiki-dir). 
 
@@ -52,7 +52,7 @@ To use Vanilla model
 ```bash
 python train.py --batch_size 256 --lr 1e-3
 ```
-To use square-root inverse (SQINV)
+To use square-root frequence inverse (SQINV)
 
 ```bash
 python train.py  --batch_size 256 --lr 1e-3 --reweight sqrt_inv 
@@ -71,24 +71,17 @@ python train.py  --batch_size 256 --lr 1e-3 --fds --fds_kernel gaussian --fds_ks
 ```
 
 ### 2. Train a model with RankSim
-##### batch size 256, learning rate 1e-3
+
 ```bash
 python train.py --batch_size 256 --lr 1e-3 --regularization_weight=100.0 --interpolation_lambda=2.0 
 ```
-##### batch size 64, learning rate 2.5e-4 
-```bash
-python train.py --batch_size 64 --lr 2.5e-4 --regularization_weight=100.0 --interpolation_lambda=2.0 
-```
 
 ### 3. Train a model with RankSim and square-root frequency inverse (SQINV)
-##### batch size 256, learning rate 1e-3
+
 ```bash
 python train.py  --batch_size 256 --lr 1e-3 --reweight sqrt_inv --regularization_weight=100.0 --interpolation_lambda=2.0 
 ```
-##### batch size 64, learning rate 2.5e-4
-```bash
-python train.py  --batch_size 64 --lr 2.5e-4 --reweight sqrt_inv --regularization_weight=100.0 --interpolation_lambda=2.0 
-```
+
 
 ### 4. Train a model with RankSim and different loss (by default $L1$ loss)
 
@@ -101,39 +94,30 @@ python train.py --loss focal_l1 --batch_size 256 --lr 1e-3 --regularization_weig
 ### 5. Train a model with RankSim and LDS
 
 To use RankSim (gamma: 100.0, lambda: 2.0) with Gaussian kernel (kernel size: 5, sigma: 2)
-##### batch size 256, learning rate 1e-3
+
 ```bash
 python train.py --batch_size 256 --lr 1e-3 --reweight sqrt_inv --lds --lds_kernel gaussian --lds_ks 5 --lds_sigma 2 --regularization_weight=100.0 --interpolation_lambda=2.0 
 ```
-##### batch size 64, learning rate 2.5e-4
-```bash
-python train.py --batch_size 256 --lr 1e-3 --reweight sqrt_inv --lds --lds_kernel gaussian --lds_ks 5 --lds_sigma 2 --regularization_weight=100.0 --interpolation_lambda=2.0 
-```
+
 
 ### 6. Train a model with RankSim and FDS
 
 To use RankSim (gamma: 100.0, lambda: 2.0) with Gaussian kernel (kernel size: 5, sigma: 2)
-##### batch size 256, learning rate 1e-3
+
 
 ```bash
 python train.py --batch_size 256 --lr 1e-3 --fds --fds_kernel gaussian --fds_ks 5 --fds_sigma 2 --regularization_weight=100.0 --interpolation_lambda=2.0 
 ```
-##### batch size 64, learning rate 2.5e-4
-```bash
-python train.py --batch_size 64 --lr 2.5e-4 --reweight sqrt_inv --lds --lds_kernel gaussian --lds_ks 5 --lds_sigma 2 --regularization_weight=100.0 --interpolation_lambda=2.0 
-```
+
 
 ### 7. Train a model with RankSim and LDS + FDS
 
 To use RankSim (gamma: 100.0, lambda: 2.0) with LDS (Gaussian kernel, kernel size: 5, sigma: 2) and FDS (Gaussian kernel, kernel size: 5, sigma: 2)
-##### batch size 256, learning rate 1e-3
+
 ```bash
 python train.py --batch_size 256 --lr 1e-3 --reweight sqrt_inv --lds --lds_kernel gaussian --lds_ks 5 --lds_sigma 2 --fds --fds_kernel gaussian --fds_ks 5 --fds_sigma 2 --regularization_weight=100.0 --interpolation_lambda=2.0 
 ```
-##### batch size 64, learning rate 2.5e-4
-```bash
-python train.py --batch_size 64 --lr 2.5e-4 --reweight sqrt_inv --lds --lds_kernel gaussian --lds_ks 5 --lds_sigma 2 --fds --fds_kernel gaussian --fds_ks 5 --fds_sigma 2 --regularization_weight=100.0 --interpolation_lambda=2.0 
-```
+
 #### NOTE: We find different batch sizes (e.g. batch size of 64 & learn rate of 2.5e-4) sometimes can improve the performance. You can try different batch size by changing the arguments, e.g. run SQINV + RankSim with batch size 64, learning rate 2.5e-4
 
 ```bash
@@ -148,7 +132,7 @@ If you do not train the model, you can evaluate the model and reproduce our resu
 python train.py --evaluate [...evaluation model arguments...] --resume <path_to_evaluation_ckpt>
 ```
 
-#### Pretrained weights
+#### Pretrained weights 
 __Focal-R + LDS + FDS + RankSim__, MAE All-shot 7.67
 [(weights)](https://drive.google.com/file/d/1gEwrnsaO1A4I-e50NTW5fOnUSy3cnrx5/view?usp=sharing) <br>
 
