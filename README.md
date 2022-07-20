@@ -3,7 +3,7 @@ This repository contains the code for the paper: <br>
 __RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression__ <br> 
 Yu Gong, Greg Mori, Fred Tung <br>
 ICML 2022 <br>
-[[arXiv](https://arxiv.org/abs/2205.15236)]  <br>
+[[arXiv](https://arxiv.org/abs/2205.15236)] [[Paper](https://proceedings.mlr.press/v162/gong22a.html)] [[Poster](figures/poster_ranksim.jpg)]<br>
 <p align="center">
     <img src="figures/teaser.jpg" width="500"> <br>
 <b>RankSim </b> (ranking similarity) regularizer encodes an inductive bias that samples that are closer in label space should also be closer in feature space.
@@ -50,3 +50,17 @@ Please go into the sub-folder to run experiments for different datasets.
 - [AgeDB-DIR](./agedb-dir)
 - [STS-B-DIR](./sts-b-dir)
 
+## Citation
+If you find RankSim helpful, please cite our work:
+```bib
+@InProceedings{gong2022ranksim,
+  title={{R}ank{S}im: Ranking Similarity Regularization for Deep Imbalanced Regression},
+  author={Gong, Yu and Mori, Greg and Tung, Frederick},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2022}
+
+```
+
+## Acknowledgment
+
+The code is based on [Yang et al., Delving into Deep Imbalanced Regression, ICML 2021](https://github.com/YyzHarry/imbalanced-regression/tree/main/imdb-wiki-dir). 
