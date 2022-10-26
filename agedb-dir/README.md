@@ -105,7 +105,7 @@ To use RankSim (gamma: 100.0, lambda: 2.0) with Gaussian kernel (kernel size: 5,
 
 ##### batch size 64, learning rate 2.5e-4
 ```bash
-python train.py --batch_size 64 --lr 2.5e-4 --reweight sqrt_inv --lds --lds_kernel gaussian --lds_ks 5 --lds_sigma 2 --regularization_weight=100.0 --interpolation_lambda=2.0 
+python train.py --batch_size 64 --lr 2.5e-4 --fds --fds_kernel gaussian --fds_ks 5 --fds_sigma 2 --regularization_weight=100.0 --interpolation_lambda=2.0
 ```
 
 ### 7. Train a model with RankSim and LDS + FDS
