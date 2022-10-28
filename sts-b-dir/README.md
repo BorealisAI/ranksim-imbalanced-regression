@@ -116,7 +116,7 @@ python train.py --regularization_weight=3e-4 --interpolation_lambda=2 --reweight
 To use RankSim with Gaussian kernel 
 
 ```bash
-python train.py --regularization_weight=3e-4 --interpolation_lambda=2 --reweight inverse --lds --lds_kernel gaussian --lds_ks 5 --lds_sigma 2 
+python train.py --regularization_weight=3e-4 --interpolation_lambda=2 --fds --fds_kernel gaussian --fds_ks 5 --fds_sigma 2  
 ```
 
 ### 7. Train a model with RankSim and LDS + FDS
